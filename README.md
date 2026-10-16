@@ -159,6 +159,7 @@ Xbox 没有匿名接口查拥有库，权威方法是登录
 | 控制台传大对象 | evaluate 返回大 JSON 会被格式化损坏，用 `btoa(unescape(encodeURIComponent(JSON.stringify(x))))` 转 base64 回传 |
 | 数据新鲜度 | 小黑盒的 Steam 数据有缓存（实测落后真实时长几小时到几天），Steam 网页版/官方 API 更新 |
 | 频率 | 每页间隔 300~800ms，实测无风控；匿名接口刷了一下午没事 |
+| 私密游戏隐身 | Steam 支持**单款游戏设为私密**：对包括官方 GetOwnedGames API 在内的一切他人查询隐身，只有本人客户端可见。查他人拥有库永远会少计私密游戏 |
 | Microsoft/Epic/Steam 登录 | 全程自己输密码，不要把 cookie/token 发给任何人（包括 AI） |
 
 ## 六、口味画像分析

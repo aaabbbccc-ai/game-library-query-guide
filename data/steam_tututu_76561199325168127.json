@@ -1,7 +1,7 @@
 {
   "account": "tututu",
   "steam_id": "76561199325168127",
-  "count": 21,
+  "count": 25,
   "games": [
     {
       "appid": 1920960,
@@ -170,6 +170,47 @@
       "achieved": 0,
       "achievements_total": 79,
       "family_shared": false
+    },
+    {
+      "appid": 1227890,
+      "name": "夏日狂想曲：乡间的难忘回忆",
+      "playtime_hours": null,
+      "achieved": null,
+      "achievements_total": null,
+      "family_shared": false,
+      "privacy": "private",
+      "note": "用户库截图确认（2026-10-16），API 因私密标记不可见"
+    },
+    {
+      "appid": 2495450,
+      "name": "冬日狂想曲",
+      "playtime_hours": null,
+      "achieved": null,
+      "achievements_total": null,
+      "family_shared": false,
+      "privacy": "private",
+      "note": "用户库截图确认"
+    },
+    {
+      "appid": 2429860,
+      "name": "妹相随～黑白世界的缤纷冒险～",
+      "playtime_hours": null,
+      "achieved": null,
+      "achievements_total": null,
+      "family_shared": false,
+      "privacy": "private",
+      "note": "用户库截图确认"
+    },
+    {
+      "appid": 1078350,
+      "name": "仙肴圣餐",
+      "playtime_hours": null,
+      "achieved": null,
+      "achievements_total": null,
+      "family_shared": false,
+      "privacy": "private",
+      "note": "用户库截图确认"
     }
-  ]
+  ],
+  "note": "包含 4 款私密标记游戏（API 不可见，来自用户库截图）"
 }
