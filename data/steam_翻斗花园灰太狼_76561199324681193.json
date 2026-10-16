@@ -1,0 +1,199 @@
+{
+  "account": "翻斗花园灰太狼",
+  "steam_id": "76561199324681193",
+  "count": 24,
+  "games": [
+    {
+      "appid": 1623730,
+      "name": "Palworld / 幻兽帕鲁",
+      "playtime_hours": 10.8,
+      "achieved": 4,
+      "achievements_total": 12,
+      "family_shared": true
+    },
+    {
+      "appid": 1237970,
+      "name": "泰坦陨落2",
+      "playtime_hours": 6.8,
+      "achieved": 22,
+      "achievements_total": 50,
+      "family_shared": false
+    },
+    {
+      "appid": 990080,
+      "name": "霍格沃茨之遗",
+      "playtime_hours": 4.8,
+      "achieved": 4,
+      "achievements_total": 45,
+      "family_shared": true
+    },
+    {
+      "appid": 1426210,
+      "name": "双人成行",
+      "playtime_hours": 2.9,
+      "achieved": 1,
+      "achievements_total": 20,
+      "family_shared": false
+    },
+    {
+      "appid": 1293830,
+      "name": "极限竞速：地平线4",
+      "playtime_hours": 1.9,
+      "achieved": 4,
+      "achievements_total": 178,
+      "family_shared": true
+    },
+    {
+      "appid": 433340,
+      "name": "史莱姆牧场",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 57,
+      "family_shared": false
+    },
+    {
+      "appid": 816340,
+      "name": "王国保卫战：起源",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 83,
+      "family_shared": false
+    },
+    {
+      "appid": 1144400,
+      "name": "千恋＊万花",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 26,
+      "family_shared": false
+    },
+    {
+      "appid": 3590,
+      "name": "植物大战僵尸",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 21,
+      "family_shared": false
+    },
+    {
+      "appid": 242760,
+      "name": "森林",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 45,
+      "family_shared": false
+    },
+    {
+      "appid": 251570,
+      "name": "七日杀",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 43,
+      "family_shared": false
+    },
+    {
+      "appid": 312660,
+      "name": "狙击精英4",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 85,
+      "family_shared": false
+    },
+    {
+      "appid": 632360,
+      "name": "雨中冒险2",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 118,
+      "family_shared": false
+    },
+    {
+      "appid": 632470,
+      "name": "极乐迪斯科：最终剪辑版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 45,
+      "family_shared": false
+    },
+    {
+      "appid": 637650,
+      "name": "最终幻想15",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 97,
+      "family_shared": false
+    },
+    {
+      "appid": 312670,
+      "name": "异域奇兵",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 60,
+      "family_shared": false
+    },
+    {
+      "appid": 976310,
+      "name": "真人快打11",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 58,
+      "family_shared": false
+    },
+    {
+      "appid": 1178490,
+      "name": "港诡实录",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 8,
+      "family_shared": false
+    },
+    {
+      "appid": 1178830,
+      "name": "光明记忆：无限",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 30,
+      "family_shared": false
+    },
+    {
+      "appid": 1449690,
+      "name": "行尸走肉：终极系列合集",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 23,
+      "family_shared": false
+    },
+    {
+      "appid": 1517290,
+      "name": "战地风云™ 2042",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 34,
+      "family_shared": false
+    },
+    {
+      "appid": 1599340,
+      "name": "失落的方舟",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 156,
+      "family_shared": false
+    },
+    {
+      "appid": 1168660,
+      "name": "Barro 2020",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 9,
+      "family_shared": false
+    },
+    {
+      "appid": 7620,
+      "name": "铁路大亨2白金版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    }
+  ]
+}

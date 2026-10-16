@@ -1,0 +1,351 @@
+{
+  "gamertag": "哦耶 #8839 (Player96288839)",
+  "xuid": "2535428687538351",
+  "count": 43,
+  "games": [
+    {
+      "name": "女神异闻录５ 皇家版",
+      "title_id": "1931947471",
+      "hours": 44.8,
+      "gamerscore": "330/1000",
+      "achievements": "14/52",
+      "source": "purchased"
+    },
+    {
+      "name": "Dead Cells",
+      "title_id": "1622132960",
+      "hours": 44,
+      "gamerscore": "320/2430",
+      "achievements": "26/115",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "Palworld / 幻兽帕鲁",
+      "title_id": "1797327516",
+      "hours": 43,
+      "gamerscore": "830/2820",
+      "achievements": "10/75",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "Hollow Knight: Silksong",
+      "title_id": "1668241504",
+      "hours": 34.5,
+      "gamerscore": "110/1000",
+      "achievements": "12/52",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "极限竞速：地平线 4",
+      "title_id": "1985701699",
+      "hours": 11.1,
+      "gamerscore": "110/3610",
+      "achievements": "9/178",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Atomic Heart",
+      "title_id": "1628688048",
+      "hours": 4.7,
+      "gamerscore": "60/2480",
+      "achievements": "3/82",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "无人之地",
+      "title_id": "964706972",
+      "hours": 4.2,
+      "gamerscore": "16/1000",
+      "achievements": "1/27",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Roboquest",
+      "title_id": "1953745880",
+      "hours": 3,
+      "gamerscore": "50/1170",
+      "achievements": "6/86",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Grounded",
+      "title_id": "2105342780",
+      "hours": 2.2,
+      "gamerscore": "0/3300",
+      "achievements": "0/45",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Kingdom Two Crowns",
+      "title_id": "25952469",
+      "hours": 1.9,
+      "gamerscore": "0/1690",
+      "achievements": "0/46",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Celeste",
+      "title_id": "245236582",
+      "hours": 1.4,
+      "gamerscore": "45/1000",
+      "achievements": "2/30",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "《极限竞速：地平线 6》",
+      "title_id": "2079757188",
+      "hours": 1.3,
+      "gamerscore": "20/1000",
+      "achievements": "2/57",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "小骨：英雄杀手(Skul: The Hero Slayer)",
+      "title_id": "1947725080",
+      "hours": 1.1,
+      "gamerscore": "24/1000",
+      "achievements": "2/23",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "Sifu",
+      "title_id": "1972063516",
+      "hours": 1,
+      "gamerscore": "40/1720",
+      "achievements": "4/61",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "女神异闻录５ 战略版",
+      "title_id": "1867683926",
+      "hours": 0.9,
+      "gamerscore": "0/1000",
+      "achievements": "0/39",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Monster Hunter Rise",
+      "title_id": "2103789015",
+      "hours": 0.8,
+      "gamerscore": "0/2000",
+      "achievements": "0/100",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Cuphead",
+      "title_id": "623325843",
+      "hours": 0.7,
+      "gamerscore": "20/1500",
+      "achievements": "2/42",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "Cassette Beasts",
+      "title_id": "2032548938",
+      "hours": 0.6,
+      "gamerscore": "5/1000",
+      "achievements": "1/100",
+      "source": "purchased"
+    },
+    {
+      "name": "Monster Sanctuary (Windows Version)",
+      "title_id": "2128710093",
+      "hours": 0.6,
+      "gamerscore": "5/1200",
+      "achievements": "1/41",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "城镇叠叠乐",
+      "title_id": "1832512217",
+      "hours": 0.5,
+      "gamerscore": "200/1000",
+      "achievements": "2/10",
+      "source": "purchased"
+    },
+    {
+      "name": "Deep Rock Galactic",
+      "title_id": "837917131",
+      "hours": 0.4,
+      "gamerscore": "0/1000",
+      "achievements": "0/67",
+      "source": "purchased"
+    },
+    {
+      "name": "Hi-Fi RUSH",
+      "title_id": "1993022209",
+      "hours": 0.4,
+      "gamerscore": "0/1250",
+      "achievements": "0/71",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Totally Accurate Battle Simulator",
+      "title_id": "1961305648",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/64",
+      "source": "purchased"
+    },
+    {
+      "name": "Neon Abyss",
+      "title_id": "1882004205",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/36",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "《Spiritfarer》Farewell版",
+      "title_id": "1726756158",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/39",
+      "source": "purchased"
+    },
+    {
+      "name": "戴森球计划 (游戏预览版)",
+      "title_id": "1941812534",
+      "hours": 0.3,
+      "gamerscore": "0/1355",
+      "achievements": "0/128",
+      "source": "purchased"
+    },
+    {
+      "name": "Slime Rancher 2",
+      "title_id": "1884079219",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/27",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Minecraft for Windows",
+      "title_id": "896928775",
+      "hours": 0.3,
+      "gamerscore": "30/2980",
+      "achievements": "3/133",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "精灵与萤火意志",
+      "title_id": "1659804324",
+      "hours": 0.2,
+      "gamerscore": "0/1000",
+      "achievements": "0/37",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Stardew Valley",
+      "title_id": "306230746",
+      "hours": 0.2,
+      "gamerscore": "0/1500",
+      "achievements": "0/49",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Beast of Reincarnation",
+      "title_id": "2059212977",
+      "hours": 0.2,
+      "gamerscore": "0/1000",
+      "achievements": "0/46",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Minecraft",
+      "title_id": "1828326430",
+      "hours": 0.2,
+      "gamerscore": "30/2980",
+      "achievements": "2/133",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "雨世界",
+      "title_id": "1789091683",
+      "hours": 0.2,
+      "gamerscore": "0/1695",
+      "achievements": "0/47",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Dead Cells",
+      "title_id": "810101074",
+      "hours": 0.2,
+      "gamerscore": "0/2430",
+      "achievements": "0/115",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "Craftopia / 创世理想乡 (Game Preview)",
+      "title_id": "1642353875",
+      "hours": 0.1,
+      "gamerscore": "0/1000",
+      "achievements": "0/28",
+      "source": "purchased"
+    },
+    {
+      "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
+      "title_id": "1736409202",
+      "hours": 0.1,
+      "gamerscore": "30/1000",
+      "achievements": "1/17",
+      "source": "redeemed_code"
+    },
+    {
+      "name": "《战地风云™ 2042》Xbox Series X|S",
+      "title_id": "2106872096",
+      "hours": 0.1,
+      "gamerscore": "0/1000",
+      "achievements": "0/34",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "刺客信条：奥德赛",
+      "title_id": "964818375",
+      "hours": 0.1,
+      "gamerscore": "0/1850",
+      "achievements": "0/93",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "ASTRONEER",
+      "title_id": "568182861",
+      "hours": 0.1,
+      "gamerscore": "0/1075",
+      "achievements": "0/56",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Brotato",
+      "title_id": "2008767227",
+      "hours": 0,
+      "gamerscore": "0/1480",
+      "achievements": "0/115",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "《使命召唤®》",
+      "title_id": "2001700854",
+      "hours": 0,
+      "gamerscore": "0/4000",
+      "achievements": "0/175",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Minecraft Launcher",
+      "title_id": "1794566092",
+      "hours": 0,
+      "gamerscore": "0/0",
+      "achievements": "0/0",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Grand Theft Auto V (Xbox One)",
+      "title_id": "972249091",
+      "hours": 0,
+      "gamerscore": "0/1750",
+      "achievements": "0/77",
+      "source": "xgp_or_unknown"
+    }
+  ]
+}

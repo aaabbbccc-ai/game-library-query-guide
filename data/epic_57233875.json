@@ -1,0 +1,853 @@
+{
+  "heybox_id": "57233875",
+  "epic_name": "Super-Magician",
+  "count": 141,
+  "games": [
+    {
+      "name": "无主之地3",
+      "playtime_hours": 52,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "荒野的召唤",
+      "playtime_hours": 11.3,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "幽灵行者",
+      "playtime_hours": 9.3,
+      "achievements": "14/45",
+      "free_claim": true
+    },
+    {
+      "name": "古墓丽影：崛起 20周年纪念版",
+      "playtime_hours": 2.4,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "无题大鹅",
+      "playtime_hours": 1.9,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "荒野大镖客 救赎2 ",
+      "playtime_hours": 1.9,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "死亡细胞",
+      "playtime_hours": 1.6,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "黑道圣徒",
+      "playtime_hours": 1.5,
+      "achievements": "1/53",
+      "free_claim": true
+    },
+    {
+      "name": "我们之间",
+      "playtime_hours": 1.4,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "暖雪",
+      "playtime_hours": 1.3,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "永劫无间",
+      "playtime_hours": 0.7,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "霓虹深渊",
+      "playtime_hours": 0.6,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "荒野的召唤：垂钓者™",
+      "playtime_hours": 0.2,
+      "achievements": "1/50",
+      "free_claim": true
+    },
+    {
+      "name": "糖豆人",
+      "playtime_hours": 0.1,
+      "achievements": "21/34",
+      "free_claim": true
+    },
+    {
+      "name": "霍格沃茨之遗",
+      "playtime_hours": 0.1,
+      "achievements": "0/45",
+      "free_claim": true
+    },
+    {
+      "name": "胡闹厨房2",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "死亡搁浅",
+      "playtime_hours": 0,
+      "achievements": "0/63",
+      "free_claim": true
+    },
+    {
+      "name": "Q.U.B.E. 10th Anniversary",
+      "playtime_hours": 0,
+      "achievements": "0/24",
+      "free_claim": false
+    },
+    {
+      "name": "遗迹：灰烬重生",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "古墓丽影 年度版",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Eternal Threads",
+      "playtime_hours": 0,
+      "achievements": "0/10",
+      "free_claim": true
+    },
+    {
+      "name": "地铁：最后的曙光归来",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "多多自走棋",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "断钢",
+      "playtime_hours": 0,
+      "achievements": "0/52",
+      "free_claim": true
+    },
+    {
+      "name": "掠食",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "星战前夜",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "侠盗公司",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "伊森卡特的消失",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "突变元年",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "BioShock Remastered",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "Core",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "莎木3",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "古墓丽影：暗影 决定版",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "恶灵附身",
+      "playtime_hours": 0,
+      "achievements": "0/71",
+      "free_claim": true
+    },
+    {
+      "name": "胡闹搬家",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Tandem: A Tale of Shadows",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "堡垒之夜",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "BioShock Infinite: The Complete Edition",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "水晶传说",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "生化奇兵2",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "Control",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "编程模拟器",
+      "playtime_hours": 0,
+      "achievements": "0/28",
+      "free_claim": true
+    },
+    {
+      "name": "暗影火炬城",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "秘奥法师",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "盐与避难所",
+      "playtime_hours": 0,
+      "achievements": "0/37",
+      "free_claim": true
+    },
+    {
+      "name": "城市：天际线",
+      "playtime_hours": 0,
+      "achievements": "0/135",
+      "free_claim": true
+    },
+    {
+      "name": "开拓者：拥王者 - 决定版",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "恶灵附身2",
+      "playtime_hours": 0,
+      "achievements": "0/51",
+      "free_claim": true
+    },
+    {
+      "name": "吸血鬼",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "无畏",
+      "playtime_hours": 0,
+      "achievements": "0/46",
+      "free_claim": true
+    },
+    {
+      "name": "二次灭绝",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "大头菜小子避税记",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Golden Light",
+      "playtime_hours": 0,
+      "achievements": "0/67",
+      "free_claim": true
+    },
+    {
+      "name": "Primordials: Battle of Gods",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "劫后余生",
+      "playtime_hours": 0,
+      "achievements": "0/59",
+      "free_claim": true
+    },
+    {
+      "name": "沉睡大地",
+      "playtime_hours": 0,
+      "achievements": "0/34",
+      "free_claim": true
+    },
+    {
+      "name": "Deliver Us Mars",
+      "playtime_hours": 0,
+      "achievements": "0/33",
+      "free_claim": true
+    },
+    {
+      "name": "Jitsu Squad",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "命运2",
+      "playtime_hours": 0,
+      "achievements": "0/23",
+      "free_claim": true
+    },
+    {
+      "name": "Spelldrifter",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "拉力赛艺术",
+      "playtime_hours": 0,
+      "achievements": "0/43",
+      "free_claim": true
+    },
+    {
+      "name": "辐射3：年度版",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "天外世界：太空人之选",
+      "playtime_hours": 0,
+      "achievements": "0/68",
+      "free_claim": true
+    },
+    {
+      "name": "程序员升职记",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "诅咒高尔夫",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "喵咪斗恶龙",
+      "playtime_hours": 0,
+      "achievements": "0/12",
+      "free_claim": true
+    },
+    {
+      "name": "Snakebird Complete",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "逃脱学院",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "黎明前20分钟",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "瘟疫传说：无罪",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "漫威银河护卫队",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "梅尔沃放置",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "GigaBash 巨击大乱斗",
+      "playtime_hours": 0,
+      "achievements": "0/35",
+      "free_claim": true
+    },
+    {
+      "name": "先驱",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "死亡循环",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "幽灵线：东京",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Mighty Fight Federation",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Sail Forth",
+      "playtime_hours": 0,
+      "achievements": "0/47",
+      "free_claim": true
+    },
+    {
+      "name": "悖论之门",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "杀出重围：人类分裂",
+      "playtime_hours": 0,
+      "achievements": "0/81",
+      "free_claim": true
+    },
+    {
+      "name": "桥",
+      "playtime_hours": 0,
+      "achievements": "0/20",
+      "free_claim": true
+    },
+    {
+      "name": "3 out of 10, EP 2: Foundation 101",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "3 out of 10, EP 1：Welcome To Shovelworks",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "模拟农场22",
+      "playtime_hours": 0,
+      "achievements": "0/43",
+      "free_claim": true
+    },
+    {
+      "name": "指环王：重返莫瑞亚",
+      "playtime_hours": 0,
+      "achievements": "0/27",
+      "free_claim": true
+    },
+    {
+      "name": "传说法师",
+      "playtime_hours": 0,
+      "achievements": "0/19",
+      "free_claim": true
+    },
+    {
+      "name": "渔帆暗涌",
+      "playtime_hours": 0,
+      "achievements": "0/60",
+      "free_claim": true
+    },
+    {
+      "name": "幽灵行者2",
+      "playtime_hours": 0,
+      "achievements": "0/34",
+      "free_claim": true
+    },
+    {
+      "name": "风火轮：释放",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "射戮骑士",
+      "playtime_hours": 0,
+      "achievements": "0/47",
+      "free_claim": true
+    },
+    {
+      "name": "[REDACTED]",
+      "playtime_hours": 0,
+      "achievements": "0/34",
+      "free_claim": true
+    },
+    {
+      "name": "师父",
+      "playtime_hours": 0,
+      "achievements": "0/60",
+      "free_claim": true
+    },
+    {
+      "name": "天国：拯救",
+      "playtime_hours": 0,
+      "achievements": "0/82",
+      "free_claim": true
+    },
+    {
+      "name": "人间地狱",
+      "playtime_hours": 0,
+      "achievements": "0/195",
+      "free_claim": true
+    },
+    {
+      "name": "Garden Story",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "僵尸世界大战：劫后余生",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "死亡岛2",
+      "playtime_hours": 0,
+      "achievements": "0/59",
+      "free_claim": true
+    },
+    {
+      "name": "快乐游戏",
+      "playtime_hours": 0,
+      "achievements": "0/11",
+      "free_claim": true
+    },
+    {
+      "name": "奥咕与秘密森林",
+      "playtime_hours": 0,
+      "achievements": "0/41",
+      "free_claim": true
+    },
+    {
+      "name": "纪念碑谷：全景版",
+      "playtime_hours": 0,
+      "achievements": "0/19",
+      "free_claim": true
+    },
+    {
+      "name": "Jotunnslayer: Hordes of Hel",
+      "playtime_hours": 0,
+      "achievements": "0/38",
+      "free_claim": true
+    },
+    {
+      "name": "永恒之夜",
+      "playtime_hours": 0,
+      "achievements": "0/25",
+      "free_claim": true
+    },
+    {
+      "name": "Blood West",
+      "playtime_hours": 0,
+      "achievements": "0/35",
+      "free_claim": true
+    },
+    {
+      "name": "对不起，我们关门了",
+      "playtime_hours": 0,
+      "achievements": "0/64",
+      "free_claim": true
+    },
+    {
+      "name": "天堂岛杀手",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "赤痕：夜之仪式",
+      "playtime_hours": 0,
+      "achievements": "0/57",
+      "free_claim": true
+    },
+    {
+      "name": "木卫四协议",
+      "playtime_hours": 0,
+      "achievements": "0/47",
+      "free_claim": true
+    },
+    {
+      "name": "极乐迪斯科：最终剪辑版",
+      "playtime_hours": 0,
+      "achievements": "0/45",
+      "free_claim": true
+    },
+    {
+      "name": "我们一起在这里",
+      "playtime_hours": 0,
+      "achievements": "0/22",
+      "free_claim": true
+    },
+    {
+      "name": "磁带妖怪",
+      "playtime_hours": 0,
+      "achievements": "0/123",
+      "free_claim": true
+    },
+    {
+      "name": "取景器",
+      "playtime_hours": 0,
+      "achievements": "0/46",
+      "free_claim": true
+    },
+    {
+      "name": "骑士精神2",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "全面战争：三国",
+      "playtime_hours": 0,
+      "achievements": "0/99",
+      "free_claim": true
+    },
+    {
+      "name": "The Telltale Batman Shadows Edition",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "泰拉科技",
+      "playtime_hours": 0,
+      "achievements": "0/15",
+      "free_claim": true
+    },
+    {
+      "name": "纪念碑谷3",
+      "playtime_hours": 0,
+      "achievements": "0/23",
+      "free_claim": true
+    },
+    {
+      "name": "阿斯特赖亚",
+      "playtime_hours": 0,
+      "achievements": "0/80",
+      "free_claim": true
+    },
+    {
+      "name": "Q立方2",
+      "playtime_hours": 0,
+      "achievements": "0/29",
+      "free_claim": false
+    },
+    {
+      "name": "Monument Valley II",
+      "playtime_hours": 0,
+      "achievements": "0/16",
+      "free_claim": true
+    },
+    {
+      "name": "低模之战",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "三位一体2：完整故事",
+      "playtime_hours": 0,
+      "achievements": "0/97",
+      "free_claim": false
+    },
+    {
+      "name": "斩妖行",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "Jorel’s Brother and The Most Important Game of the Galaxy",
+      "playtime_hours": 0,
+      "achievements": "0/49",
+      "free_claim": true
+    },
+    {
+      "name": "小缇娜的奇幻之地",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "INDUSTRIA",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "三位一体",
+      "playtime_hours": 0,
+      "achievements": "0/33",
+      "free_claim": false
+    },
+    {
+      "name": "漫威暗夜之子",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "天外世界",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": false
+    },
+    {
+      "name": "众神陨落：终极版",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "神偷",
+      "playtime_hours": 0,
+      "achievements": "0/37",
+      "free_claim": true
+    },
+    {
+      "name": "喵咪斗恶龙2",
+      "playtime_hours": 0,
+      "achievements": "0/9",
+      "free_claim": true
+    },
+    {
+      "name": "黎明杀机",
+      "playtime_hours": 0,
+      "achievements": "0/304",
+      "free_claim": true
+    },
+    {
+      "name": "爱与破坏",
+      "playtime_hours": 0,
+      "achievements": "0/18",
+      "free_claim": true
+    },
+    {
+      "name": "《无主星渊》无主星渊",
+      "playtime_hours": 0,
+      "achievements": "0/28",
+      "free_claim": true
+    },
+    {
+      "name": "LISA: The Joyful - Definitive Edition",
+      "playtime_hours": 0,
+      "achievements": "0/10",
+      "free_claim": false
+    },
+    {
+      "name": "兽人必须死3",
+      "playtime_hours": 0,
+      "achievements": "0/37",
+      "free_claim": true
+    },
+    {
+      "name": "丽萨",
+      "playtime_hours": 0,
+      "achievements": "0/58",
+      "free_claim": false
+    },
+    {
+      "name": "Trine 4: Definitive Edition",
+      "playtime_hours": 0,
+      "achievements": "0/39",
+      "free_claim": false
+    },
+    {
+      "name": "无敌礼物：原子夏娃",
+      "playtime_hours": 0,
+      "achievements": "0/35",
+      "free_claim": true
+    },
+    {
+      "name": "地狱边境",
+      "playtime_hours": 0,
+      "achievements": "-/-",
+      "free_claim": true
+    },
+    {
+      "name": "三位一体3：权力圣器",
+      "playtime_hours": 0,
+      "achievements": "0/28",
+      "free_claim": false
+    }
+  ]
+}

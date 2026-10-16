@@ -1,0 +1,175 @@
+{
+  "account": "tututu",
+  "steam_id": "76561199325168127",
+  "count": 21,
+  "games": [
+    {
+      "appid": 1920960,
+      "name": "虚拟桌宠模拟器",
+      "playtime_hours": 3.4,
+      "achieved": 8,
+      "achievements_total": 75,
+      "family_shared": false
+    },
+    {
+      "appid": 1293830,
+      "name": "极限竞速：地平线4",
+      "playtime_hours": 2.4,
+      "achieved": 1,
+      "achievements_total": 178,
+      "family_shared": false
+    },
+    {
+      "appid": 1659420,
+      "name": "神秘海域: 盗贼传奇合辑",
+      "playtime_hours": 1.8,
+      "achieved": 1,
+      "achievements_total": 101,
+      "family_shared": false
+    },
+    {
+      "appid": 1367550,
+      "name": "王国保卫战：复仇",
+      "playtime_hours": 0.4,
+      "achieved": 2,
+      "achievements_total": 84,
+      "family_shared": false
+    },
+    {
+      "appid": 386940,
+      "name": "超级鸡马",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 31,
+      "family_shared": false
+    },
+    {
+      "appid": 367520,
+      "name": "空洞骑士",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 63,
+      "family_shared": false
+    },
+    {
+      "appid": 261570,
+      "name": "精灵与黑暗森林",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 50,
+      "family_shared": false
+    },
+    {
+      "appid": 387290,
+      "name": "精灵与黑暗森林-终极版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 57,
+      "family_shared": false
+    },
+    {
+      "appid": 397540,
+      "name": "无主之地3",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 81,
+      "family_shared": false
+    },
+    {
+      "appid": 457140,
+      "name": "缺氧",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 45,
+      "family_shared": false
+    },
+    {
+      "appid": 489830,
+      "name": "上古卷轴5：天际特别版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 75,
+      "family_shared": false
+    },
+    {
+      "appid": 289070,
+      "name": "文明6",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 320,
+      "family_shared": false
+    },
+    {
+      "appid": 292030,
+      "name": "巫师3：狂猎 - 重制版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 78,
+      "family_shared": false
+    },
+    {
+      "appid": 553640,
+      "name": "艾希",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 34,
+      "family_shared": false
+    },
+    {
+      "appid": 913550,
+      "name": "创造与挑战",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 1057090,
+      "name": "精灵与萤火意志",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 37,
+      "family_shared": false
+    },
+    {
+      "appid": 1162520,
+      "name": "大富翁10",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 28,
+      "family_shared": false
+    },
+    {
+      "appid": 1145360,
+      "name": "哈迪斯",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 49,
+      "family_shared": false
+    },
+    {
+      "appid": 1509960,
+      "name": "PICO PARK",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 1902710,
+      "name": "奇怪的RPG",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 14,
+      "family_shared": false
+    },
+    {
+      "appid": 1151640,
+      "name": "地平线：零之曙光 完全版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 79,
+      "family_shared": false
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "account": "起飞就现在",
+  "steam_id": "76561199215283604",
+  "count": 93,
+  "games": [
+    {
+      "appid": 397540,
+      "name": "无主之地3",
+      "playtime_hours": 52.8,
+      "achieved": 40,
+      "achievements_total": 81,
+      "family_shared": true
+    },
+    {
+      "appid": 413150,
+      "name": "星露谷物语",
+      "playtime_hours": 49.1,
+      "achieved": 8,
+      "achievements_total": 49,
+      "family_shared": false
+    },
+    {
+      "appid": 1623730,
+      "name": "Palworld / 幻兽帕鲁",
+      "playtime_hours": 43.3,
+      "achieved": 29,
+      "achievements_total": 75,
+      "family_shared": true
+    },
+    {
+      "appid": 322330,
+      "name": "饥荒联机版",
+      "playtime_hours": 33.5,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 1942280,
+      "name": "土豆兄弟",
+      "playtime_hours": 31.3,
+      "achieved": 57,
+      "achievements_total": 179,
+      "family_shared": false
+    },
+    {
+      "appid": 1097150,
+      "name": "糖豆人",
+      "playtime_hours": 30.6,
+      "achieved": 25,
+      "achievements_total": 34,
+      "family_shared": false
+    },
+    {
+      "appid": 1057090,
+      "name": "精灵与萤火意志",
+      "playtime_hours": 24.8,
+      "achieved": 18,
+      "achievements_total": 37,
+      "family_shared": true
+    },
+    {
+      "appid": 271590,
+      "name": "侠盗猎车手V",
+      "playtime_hours": 21.4,
+      "achieved": 3,
+      "achievements_total": 77,
+      "family_shared": false
+    },
+    {
+      "appid": 1293830,
+      "name": "极限竞速：地平线4",
+      "playtime_hours": 19.4,
+      "achieved": 11,
+      "achievements_total": 178,
+      "family_shared": true
+    },
+    {
+      "appid": 3590,
+      "name": "植物大战僵尸",
+      "playtime_hours": 17.8,
+      "achieved": 9,
+      "achievements_total": 21,
+      "family_shared": true
+    },
+    {
+      "appid": 433340,
+      "name": "史莱姆牧场",
+      "playtime_hours": 17.3,
+      "achieved": 25,
+      "achievements_total": 57,
+      "family_shared": true
+    },
+    {
+      "appid": 913550,
+      "name": "创造与挑战",
+      "playtime_hours": 17.1,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": true
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "playtime_hours": 16.8,
+      "achieved": 4,
+      "achievements_total": 17,
+      "family_shared": false
+    },
+    {
+      "appid": 367520,
+      "name": "空洞骑士",
+      "playtime_hours": 14.1,
+      "achieved": 23,
+      "achievements_total": 63,
+      "family_shared": true
+    },
+    {
+      "appid": 1920960,
+      "name": "虚拟桌宠模拟器",
+      "playtime_hours": 13.5,
+      "achieved": 20,
+      "achievements_total": 75,
+      "family_shared": false
+    },
+    {
+      "appid": 1329410,
+      "name": "雀魂麻将",
+      "playtime_hours": 12.5,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 2358720,
+      "name": "黑神话：悟空",
+      "playtime_hours": 10.7,
+      "achieved": 30,
+      "achievements_total": 81,
+      "family_shared": false
+    },
+    {
+      "appid": 2349820,
+      "name": "英勇之地",
+      "playtime_hours": 10.4,
+      "achieved": 12,
+      "achievements_total": 37,
+      "family_shared": false
+    },
+    {
+      "appid": 1260320,
+      "name": "猛兽派对",
+      "playtime_hours": 9.4,
+      "achieved": 4,
+      "achievements_total": 108,
+      "family_shared": false
+    },
+    {
+      "appid": 4148240,
+      "name": "女王的游戏：盛世天下 女帝篇",
+      "playtime_hours": 8.9,
+      "achieved": 19,
+      "achievements_total": 57,
+      "family_shared": true
+    },
+    {
+      "appid": 4001890,
+      "name": "渔力全开",
+      "playtime_hours": 8.1,
+      "achieved": 16,
+      "achievements_total": 31,
+      "family_shared": false
+    },
+    {
+      "appid": 1509960,
+      "name": "PICO PARK",
+      "playtime_hours": 6.9,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": true
+    },
+    {
+      "appid": 1922560,
+      "name": "植物大战僵尸：花园战争2-豪华版",
+      "playtime_hours": 6.6,
+      "achieved": 2,
+      "achievements_total": 63,
+      "family_shared": false
+    },
+    {
+      "appid": 550,
+      "name": "求生之路2",
+      "playtime_hours": 5.3,
+      "achieved": 2,
+      "achievements_total": 101,
+      "family_shared": false
+    },
+    {
+      "appid": 477160,
+      "name": "人类一败涂地",
+      "playtime_hours": 5,
+      "achieved": 14,
+      "achievements_total": 123,
+      "family_shared": false
+    },
+    {
+      "appid": 49520,
+      "name": "无主之地2",
+      "playtime_hours": 4,
+      "achieved": 3,
+      "achievements_total": 75,
+      "family_shared": false
+    },
+    {
+      "appid": 242760,
+      "name": "森林",
+      "playtime_hours": 3.9,
+      "achieved": 3,
+      "achievements_total": 45,
+      "family_shared": true
+    },
+    {
+      "appid": 239140,
+      "name": "消逝的光芒",
+      "playtime_hours": 3.8,
+      "achieved": 6,
+      "achievements_total": 78,
+      "family_shared": false
+    },
+    {
+      "appid": 3527290,
+      "name": "PEAK",
+      "playtime_hours": 3.6,
+      "achieved": 4,
+      "achievements_total": 54,
+      "family_shared": false
+    },
+    {
+      "appid": 387290,
+      "name": "精灵与黑暗森林-终极版",
+      "playtime_hours": 3.3,
+      "achieved": 12,
+      "achievements_total": 57,
+      "family_shared": true
+    },
+    {
+      "appid": 1145360,
+      "name": "哈迪斯",
+      "playtime_hours": 2.9,
+      "achieved": 1,
+      "achievements_total": 49,
+      "family_shared": true
+    },
+    {
+      "appid": 816340,
+      "name": "王国保卫战：起源",
+      "playtime_hours": 2.8,
+      "achieved": 12,
+      "achievements_total": 83,
+      "family_shared": true
+    },
+    {
+      "appid": 1382330,
+      "name": "女神异闻录5 乱战：魅影攻手",
+      "playtime_hours": 2.5,
+      "achieved": 1,
+      "achievements_total": 47,
+      "family_shared": false
+    },
+    {
+      "appid": 386940,
+      "name": "超级鸡马",
+      "playtime_hours": 2.1,
+      "achieved": 4,
+      "achievements_total": 31,
+      "family_shared": true
+    },
+    {
+      "appid": 2751000,
+      "name": "波斯王子：失落的王冠",
+      "playtime_hours": 1.9,
+      "achieved": 1,
+      "achievements_total": 40,
+      "family_shared": false
+    },
+    {
+      "appid": 2325290,
+      "name": "Sky光·遇",
+      "playtime_hours": 1.7,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 730,
+      "name": "CS2",
+      "playtime_hours": 1.6,
+      "achieved": 0,
+      "achievements_total": 1,
+      "family_shared": false
+    },
+    {
+      "appid": 1222140,
+      "name": "底特律：化身为人",
+      "playtime_hours": 1.5,
+      "achieved": 3,
+      "achievements_total": 48,
+      "family_shared": false
+    },
+    {
+      "appid": 105600,
+      "name": "泰拉瑞亚",
+      "playtime_hours": 1.5,
+      "achieved": 5,
+      "achievements_total": 115,
+      "family_shared": false
+    },
+    {
+      "appid": 1238810,
+      "name": "战地风云5",
+      "playtime_hours": 1.2,
+      "achieved": 0,
+      "achievements_total": 21,
+      "family_shared": false
+    },
+    {
+      "appid": 1669980,
+      "name": "火山的女儿",
+      "playtime_hours": 1.1,
+      "achieved": 0,
+      "achievements_total": 234,
+      "family_shared": false
+    },
+    {
+      "appid": 1243830,
+      "name": "胡闹厨房 全都好吃",
+      "playtime_hours": 1.1,
+      "achieved": 3,
+      "achievements_total": 42,
+      "family_shared": false
+    },
+    {
+      "appid": 1446780,
+      "name": "怪物猎人：崛起",
+      "playtime_hours": 1.1,
+      "achieved": 1,
+      "achievements_total": 100,
+      "family_shared": false
+    },
+    {
+      "appid": 204360,
+      "name": "城堡破坏者",
+      "playtime_hours": 1,
+      "achieved": 0,
+      "achievements_total": 12,
+      "family_shared": false
+    },
+    {
+      "appid": 683320,
+      "name": "色灰",
+      "playtime_hours": 0.8,
+      "achieved": 1,
+      "achievements_total": 17,
+      "family_shared": false
+    },
+    {
+      "appid": 1905180,
+      "name": "OBS Studio",
+      "playtime_hours": 0.7,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 705210,
+      "name": "Cube Racer",
+      "playtime_hours": 0.7,
+      "achieved": 0,
+      "achievements_total": 24,
+      "family_shared": false
+    },
+    {
+      "appid": 2943650,
+      "name": "界外狂潮",
+      "playtime_hours": 0.6,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 993090,
+      "name": "无损缩放",
+      "playtime_hours": 0.5,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 1832640,
+      "name": "魔镜2: Project X",
+      "playtime_hours": 0.5,
+      "achieved": 1,
+      "achievements_total": 1,
+      "family_shared": false
+    },
+    {
+      "appid": 1262240,
+      "name": "植物大战僵尸™: 和睦小镇保卫战",
+      "playtime_hours": 0.5,
+      "achieved": 0,
+      "achievements_total": 50,
+      "family_shared": false
+    },
+    {
+      "appid": 939400,
+      "name": "LoveChoice 拣爱",
+      "playtime_hours": 0.5,
+      "achieved": 2,
+      "achievements_total": 20,
+      "family_shared": false
+    },
+    {
+      "appid": 1325200,
+      "name": "仁王2 完全版",
+      "playtime_hours": 0.4,
+      "achieved": 0,
+      "achievements_total": 88,
+      "family_shared": false
+    },
+    {
+      "appid": 958260,
+      "name": "死或生沙滩排球：维纳斯假期",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 2690970,
+      "name": "垃圾桶军团",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 714010,
+      "name": "目标实验室Aim Lab",
+      "playtime_hours": 0.3,
+      "achieved": 2,
+      "achievements_total": 100,
+      "family_shared": false
+    },
+    {
+      "appid": 1943950,
+      "name": "逃离后室",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 25,
+      "family_shared": false
+    },
+    {
+      "appid": 601150,
+      "name": "鬼泣5",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 55,
+      "family_shared": false
+    },
+    {
+      "appid": 3867950,
+      "name": "造梦西游：无双",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 68,
+      "family_shared": false
+    },
+    {
+      "appid": 1206610,
+      "name": "橡胶强盗",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 19,
+      "family_shared": false
+    },
+    {
+      "appid": 1114940,
+      "name": "I Wanna Maker",
+      "playtime_hours": 0.3,
+      "achieved": 0,
+      "achievements_total": 46,
+      "family_shared": false
+    },
+    {
+      "appid": 380600,
+      "name": "垂钓星球",
+      "playtime_hours": 0.2,
+      "achieved": 0,
+      "achievements_total": 17,
+      "family_shared": false
+    },
+    {
+      "appid": 475550,
+      "name": "旁观者",
+      "playtime_hours": 0.2,
+      "achieved": 0,
+      "achievements_total": 60,
+      "family_shared": false
+    },
+    {
+      "appid": 238460,
+      "name": "战斗砖块剧场",
+      "playtime_hours": 0.2,
+      "achieved": 0,
+      "achievements_total": 30,
+      "family_shared": false
+    },
+    {
+      "appid": 1701520,
+      "name": "心渊梦境",
+      "playtime_hours": 0.1,
+      "achieved": 0,
+      "achievements_total": 46,
+      "family_shared": false
+    },
+    {
+      "appid": 2923300,
+      "name": "Banana",
+      "playtime_hours": 0.1,
+      "achieved": 1,
+      "achievements_total": 1,
+      "family_shared": false
+    },
+    {
+      "appid": 1875830,
+      "name": "真·女神转生 Ⅴ Vengeance",
+      "playtime_hours": 0.1,
+      "achieved": 0,
+      "achievements_total": 48,
+      "family_shared": false
+    },
+    {
+      "appid": 559650,
+      "name": "女巫来了",
+      "playtime_hours": 0.1,
+      "achieved": 0,
+      "achievements_total": 93,
+      "family_shared": false
+    },
+    {
+      "appid": 363440,
+      "name": "洛克人传奇合集",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 24,
+      "family_shared": false
+    },
+    {
+      "appid": 204450,
+      "name": "狂野西部：枪手",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 26,
+      "family_shared": false
+    },
+    {
+      "appid": 70,
+      "name": "半条命",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 0,
+      "family_shared": false
+    },
+    {
+      "appid": 1272010,
+      "name": "驱逐舰：U型艇猎手",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 16,
+      "family_shared": false
+    },
+    {
+      "appid": 1578650,
+      "name": "深空梦里人",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 27,
+      "family_shared": false
+    },
+    {
+      "appid": 1602080,
+      "name": "Soulstice",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 40,
+      "family_shared": false
+    },
+    {
+      "appid": 1143810,
+      "name": "云端掠影",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 28,
+      "family_shared": false
+    },
+    {
+      "appid": 742420,
+      "name": "黑道圣徒",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 64,
+      "family_shared": false
+    },
+    {
+      "appid": 1844380,
+      "name": "战锤西格玛时代：毁灭之国",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 37,
+      "family_shared": false
+    },
+    {
+      "appid": 2835570,
+      "name": "恶魔轮盘",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 16,
+      "family_shared": false
+    },
+    {
+      "appid": 1915380,
+      "name": "花园生涯：模拟佛系生活",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 37,
+      "family_shared": false
+    },
+    {
+      "appid": 3240220,
+      "name": "侠盗猎车手 V 增强版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 77,
+      "family_shared": false
+    },
+    {
+      "appid": 286690,
+      "name": "地铁：2033 重制版",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 49,
+      "family_shared": false
+    },
+    {
+      "appid": 2337860,
+      "name": "呆呆大乱斗",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 15,
+      "family_shared": false
+    },
+    {
+      "appid": 582010,
+      "name": "怪物猎人：世界",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 100,
+      "family_shared": false
+    },
+    {
+      "appid": 1200580,
+      "name": "One Gun Guy",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 19,
+      "family_shared": false
+    },
+    {
+      "appid": 1134700,
+      "name": "荒野之地2: 新大陆",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 56,
+      "family_shared": false
+    },
+    {
+      "appid": 571310,
+      "name": "蒸汽世界：掘进2",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 34,
+      "family_shared": false
+    },
+    {
+      "appid": 493340,
+      "name": "过山车之星",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 32,
+      "family_shared": false
+    },
+    {
+      "appid": 2000950,
+      "name": "使命召唤：现代战争",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 27,
+      "family_shared": false
+    },
+    {
+      "appid": 227300,
+      "name": "欧洲卡车模拟2",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 106,
+      "family_shared": false
+    },
+    {
+      "appid": 701160,
+      "name": "王国：两位君主",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 46,
+      "family_shared": false
+    },
+    {
+      "appid": 638230,
+      "name": "风之旅人",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 14,
+      "family_shared": false
+    },
+    {
+      "appid": 1599600,
+      "name": "速速上菜！",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 26,
+      "family_shared": false
+    },
+    {
+      "appid": 815370,
+      "name": "绿色地狱",
+      "playtime_hours": 0,
+      "achieved": 0,
+      "achievements_total": 68,
+      "family_shared": false
+    }
+  ]
+}

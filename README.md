@@ -161,7 +161,18 @@ Xbox 没有匿名接口查拥有库，权威方法是登录
 | 频率 | 每页间隔 300~800ms，实测无风控；匿名接口刷了一下午没事 |
 | Microsoft/Epic/Steam 登录 | 全程自己输密码，不要把 cookie/token 发给任何人（包括 AI） |
 
-## 六、脚本清单
+## 六、实战数据（data/ 目录）
+
+本仓库 data/ 目录里有一份真实的抓取结果（我自己的账号，397 款），字段即脚本输出：
+
+| 文件 | 内容 |
+|---|---|
+| data/steam_*.json | 4 个 Steam 号（含家庭共享标记 family_shared） |
+| data/xbox_*.json | Xbox 游玩列表，source 字段区分 purchased / redeemed_code / xgp_or_unknown |
+| data/epic_*.json | Epic 全量 + 精确时长 + 喜加一标记 |
+| data/library_summary.md | 三平台合并总表（按平台分组、按时长排序） |
+
+## 七、脚本清单
 
 | 文件 | 用途 |
 |---|---|
@@ -170,7 +181,7 @@ Xbox 没有匿名接口查拥有库，权威方法是登录
 | [heybox_xbox_games.js](heybox_xbox_games.js) | Xbox 游戏列表（匿名） |
 | [epic_console_snippet.js](epic_console_snippet.js) | Epic 时长（需登录态，浏览器控制台运行） |
 
-## 七、实战成果
+## 八、实战成果
 
 用这套方法整合了一个 4 Steam 号（家庭组）+ Xbox + Epic 的账号：
 
