@@ -1,0 +1,2145 @@
+[
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "波斯王子：失落的王冠",
+    "h": 1.9,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "去月球",
+    "h": 0.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "土豆兄弟",
+    "h": 31.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "植物大战僵尸",
+    "h": 17.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "无主之地3",
+    "h": 52.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "星露谷物语",
+    "h": 49.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Palworld / 幻兽帕鲁",
+    "h": 43.3,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "饥荒联机版",
+    "h": 33.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "糖豆人",
+    "h": 30.6,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "精灵与萤火意志",
+    "h": 24.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "侠盗猎车手V",
+    "h": 21.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "极限竞速：地平线4",
+    "h": 19.4,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "史莱姆牧场",
+    "h": 17.3,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "创造与挑战",
+    "h": 17.1,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Wallpaper Engine",
+    "h": 16.8,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "空洞骑士",
+    "h": 14.1,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "虚拟桌宠模拟器",
+    "h": 13.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "雀魂麻将",
+    "h": 12.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "黑神话：悟空",
+    "h": 10.7,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "英勇之地",
+    "h": 10.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "猛兽派对",
+    "h": 9.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "女王的游戏：盛世天下 女帝篇",
+    "h": 8.9,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "渔力全开",
+    "h": 8.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "PICO PARK",
+    "h": 6.9,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "植物大战僵尸：花园战争2-豪华版",
+    "h": 6.6,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "求生之路2",
+    "h": 5.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "人类一败涂地",
+    "h": 5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "无主之地2",
+    "h": 4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "森林",
+    "h": 3.9,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "消逝的光芒",
+    "h": 3.8,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "PEAK",
+    "h": 3.6,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "精灵与黑暗森林-终极版",
+    "h": 3.3,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "哈迪斯",
+    "h": 2.9,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "王国保卫战：起源",
+    "h": 2.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "女神异闻录5 乱战：魅影攻手",
+    "h": 2.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "超级鸡马",
+    "h": 2.1,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Sky光·遇",
+    "h": 1.7,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "CS2",
+    "h": 1.6,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "底特律：化身为人",
+    "h": 1.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "泰拉瑞亚",
+    "h": 1.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "战地风云5",
+    "h": 1.2,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "火山的女儿",
+    "h": 1.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "胡闹厨房 全都好吃",
+    "h": 1.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "怪物猎人：崛起",
+    "h": 1.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "城堡破坏者",
+    "h": 1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "色灰",
+    "h": 0.8,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "OBS Studio",
+    "h": 0.7,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Cube Racer",
+    "h": 0.7,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "界外狂潮",
+    "h": 0.6,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "无损缩放",
+    "h": 0.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "魔镜2: Project X",
+    "h": 0.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "植物大战僵尸™: 和睦小镇保卫战",
+    "h": 0.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "LoveChoice 拣爱",
+    "h": 0.5,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "仁王2 完全版",
+    "h": 0.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "死或生沙滩排球：维纳斯假期",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "垃圾桶军团",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "目标实验室Aim Lab",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "逃离后室",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "鬼泣5",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "造梦西游：无双",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "橡胶强盗",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "I Wanna Maker",
+    "h": 0.3,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "垂钓星球",
+    "h": 0.2,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "旁观者",
+    "h": 0.2,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "战斗砖块剧场",
+    "h": 0.2,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "心渊梦境",
+    "h": 0.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Banana",
+    "h": 0.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "真·女神转生 Ⅴ Vengeance",
+    "h": 0.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "女巫来了",
+    "h": 0.1,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "洛克人传奇合集",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "狂野西部：枪手",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "半条命",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "驱逐舰：U型艇猎手",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "深空梦里人",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "Soulstice",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "云端掠影",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "黑道圣徒",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "战锤西格玛时代：毁灭之国",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "恶魔轮盘",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "花园生涯：模拟佛系生活",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "侠盗猎车手 V 增强版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "地铁：2033 重制版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "呆呆大乱斗",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "怪物猎人：世界",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "One Gun Guy",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "荒野之地2: 新大陆",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "蒸汽世界：掘进2",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "过山车之星",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "使命召唤：现代战争",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "欧洲卡车模拟2",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "王国：两位君主",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "风之旅人",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "速速上菜！",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "绿色地狱",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "寻找天堂",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "鸟的故事",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "不过如此的去月球系列海滩特别篇",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "起飞就现在",
+    "name": "影子工厂",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "Palworld / 幻兽帕鲁",
+    "h": 10.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "霍格沃茨之遗",
+    "h": 4.8,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "极限竞速：地平线4",
+    "h": 1.9,
+    "shared": true
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "史莱姆牧场",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "泰坦陨落2",
+    "h": 6.8,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "双人成行",
+    "h": 2.9,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "王国保卫战：起源",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "千恋＊万花",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "植物大战僵尸",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "森林",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "七日杀",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "狙击精英4",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "雨中冒险2",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "极乐迪斯科：最终剪辑版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "最终幻想15",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "异域奇兵",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "真人快打11",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "港诡实录",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "光明记忆：无限",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "行尸走肉：终极系列合集",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "战地风云™ 2042",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "失落的方舟",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "Barro 2020",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "翻斗花园灰太狼",
+    "name": "铁路大亨2白金版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "虚拟桌宠模拟器",
+    "h": 3.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "极限竞速：地平线4",
+    "h": 2.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "神秘海域: 盗贼传奇合辑",
+    "h": 1.8,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "王国保卫战：复仇",
+    "h": 0.4,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "超级鸡马",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "空洞骑士",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "精灵与黑暗森林",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "精灵与黑暗森林-终极版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "无主之地3",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "缺氧",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "上古卷轴5：天际特别版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "文明6",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "巫师3：狂猎 - 重制版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "艾希",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "创造与挑战",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "精灵与萤火意志",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "大富翁10",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "哈迪斯",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "PICO PARK",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "奇怪的RPG",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "地平线：零之曙光 完全版",
+    "h": 0,
+    "shared": false
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "夏日狂想曲：乡间的难忘回忆",
+    "h": 0,
+    "shared": false,
+    "private": true
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "冬日狂想曲",
+    "h": 0,
+    "shared": false,
+    "private": true
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "妹相随～黑白世界的缤纷冒险～",
+    "h": 0,
+    "shared": false,
+    "private": true
+  },
+  {
+    "p": "Steam",
+    "acct": "tututu",
+    "name": "仙肴圣餐",
+    "h": 0,
+    "shared": false,
+    "private": true
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Vampire Survivors",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Totally Accurate Battle Simulator",
+    "h": 0.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "小骨：英雄杀手(Skul: The Hero Slayer)",
+    "h": 1.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Brotato",
+    "h": 0
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "精灵与萤火意志",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Stardew Valley",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Beast of Reincarnation",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "《极限竞速：地平线 6》",
+    "h": 1.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Neon Abyss",
+    "h": 0.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "无人之地",
+    "h": 4.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Minecraft",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "雨世界",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Grounded",
+    "h": 2.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Dead Cells",
+    "h": 0.2
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "女神异闻录５ 皇家版",
+    "h": 44.8
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Dead Cells",
+    "h": 44
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Hollow Knight: Silksong",
+    "h": 34.5
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "极限竞速：地平线 4",
+    "h": 11.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Kingdom Two Crowns",
+    "h": 1.9
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Palworld / 幻兽帕鲁",
+    "h": 43
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "《使命召唤®》",
+    "h": 0
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Cuphead",
+    "h": 0.7
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "《Spiritfarer》Farewell版",
+    "h": 0.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Cassette Beasts",
+    "h": 0.6
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Minecraft Launcher",
+    "h": 0
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Deep Rock Galactic",
+    "h": 0.4
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "城镇叠叠乐",
+    "h": 0.5
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Roboquest",
+    "h": 3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Hi-Fi RUSH",
+    "h": 0.4
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Sifu",
+    "h": 1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "戴森球计划 (游戏预览版)",
+    "h": 0.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Celeste",
+    "h": 1.4
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Craftopia / 创世理想乡 (Game Preview)",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Slime Rancher 2",
+    "h": 0.3
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Monster Sanctuary (Windows Version)",
+    "h": 0.6
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "《战地风云™ 2042》Xbox Series X|S",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Atomic Heart",
+    "h": 4.7
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "刺客信条：奥德赛",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Grand Theft Auto V (Xbox One)",
+    "h": 0
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "ASTRONEER",
+    "h": 0.1
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "女神异闻录５ 战略版",
+    "h": 0.9
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Monster Hunter Rise",
+    "h": 0.8
+  },
+  {
+    "p": "Xbox",
+    "acct": "哦耶#8839",
+    "name": "Minecraft for Windows",
+    "h": 0.3
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "无主之地3",
+    "h": 52
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "荒野的召唤",
+    "h": 11.3
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "幽灵行者",
+    "h": 9.3
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "古墓丽影：崛起 20周年纪念版",
+    "h": 2.4
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "无题大鹅",
+    "h": 1.9
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "荒野大镖客 救赎2 ",
+    "h": 1.9
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "死亡细胞",
+    "h": 1.6
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "黑道圣徒",
+    "h": 1.5
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "我们之间",
+    "h": 1.4
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "暖雪",
+    "h": 1.3
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "永劫无间",
+    "h": 0.7
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "霓虹深渊",
+    "h": 0.6
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "荒野的召唤：垂钓者™",
+    "h": 0.2
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "糖豆人",
+    "h": 0.1
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "霍格沃茨之遗",
+    "h": 0.1
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "胡闹厨房2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "死亡搁浅",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Q.U.B.E. 10th Anniversary",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "遗迹：灰烬重生",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "古墓丽影 年度版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Eternal Threads",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "地铁：最后的曙光归来",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "多多自走棋",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "断钢",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "掠食",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "星战前夜",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "侠盗公司",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "伊森卡特的消失",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "突变元年",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "BioShock Remastered",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Core",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "莎木3",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "古墓丽影：暗影 决定版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "恶灵附身",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "胡闹搬家",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Tandem: A Tale of Shadows",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "堡垒之夜",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "BioShock Infinite: The Complete Edition",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "水晶传说",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "生化奇兵2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Control",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "编程模拟器",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "暗影火炬城",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "秘奥法师",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "盐与避难所",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "城市：天际线",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "开拓者：拥王者 - 决定版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "恶灵附身2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "吸血鬼",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "无畏",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "二次灭绝",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "大头菜小子避税记",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Golden Light",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Primordials: Battle of Gods",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "劫后余生",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "沉睡大地",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Deliver Us Mars",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Jitsu Squad",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "命运2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Spelldrifter",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "拉力赛艺术",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "辐射3：年度版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "天外世界：太空人之选",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "程序员升职记",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "诅咒高尔夫",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "喵咪斗恶龙",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Snakebird Complete",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "逃脱学院",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "黎明前20分钟",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "瘟疫传说：无罪",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "漫威银河护卫队",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "梅尔沃放置",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "GigaBash 巨击大乱斗",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "先驱",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "死亡循环",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "幽灵线：东京",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Mighty Fight Federation",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Sail Forth",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "悖论之门",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "杀出重围：人类分裂",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "桥",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "3 out of 10, EP 2: Foundation 101",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "3 out of 10, EP 1：Welcome To Shovelworks",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "模拟农场22",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "指环王：重返莫瑞亚",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "传说法师",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "渔帆暗涌",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "幽灵行者2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "风火轮：释放",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "射戮骑士",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "[REDACTED]",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "师父",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "天国：拯救",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "人间地狱",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Garden Story",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "僵尸世界大战：劫后余生",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "死亡岛2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "快乐游戏",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "奥咕与秘密森林",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "纪念碑谷：全景版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Jotunnslayer: Hordes of Hel",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "永恒之夜",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Blood West",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "对不起，我们关门了",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "天堂岛杀手",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "赤痕：夜之仪式",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "木卫四协议",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "极乐迪斯科：最终剪辑版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "我们一起在这里",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "磁带妖怪",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "取景器",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "骑士精神2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "全面战争：三国",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "The Telltale Batman Shadows Edition",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "泰拉科技",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "纪念碑谷3",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "阿斯特赖亚",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Q立方2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Monument Valley II",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "低模之战",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "三位一体2：完整故事",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "斩妖行",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Jorel’s Brother and The Most Important Game of the Galaxy",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "小缇娜的奇幻之地",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "INDUSTRIA",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "三位一体",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "漫威暗夜之子",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "天外世界",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "众神陨落：终极版",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "神偷",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "喵咪斗恶龙2",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "黎明杀机",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "爱与破坏",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "《无主星渊》无主星渊",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "LISA: The Joyful - Definitive Edition",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "兽人必须死3",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "丽萨",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "Trine 4: Definitive Edition",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "无敌礼物：原子夏娃",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "地狱边境",
+    "h": 0
+  },
+  {
+    "p": "Epic",
+    "acct": "Super-Magician",
+    "name": "三位一体3：权力圣器",
+    "h": 0
+  }
+]
