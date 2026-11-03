@@ -246,31 +246,31 @@
 
 | 游戏 | 时长 | 获得 |
 |---|---|---|
-| 女神异闻录５ 皇家版 | 44.8h | 购买 |
-| Dead Cells | 44.0h | 兑换码 |
-| Palworld / 幻兽帕鲁 | 43.0h | 兑换码 |
-| No Man's Sky / 无人之地 | 4.2h | 购买/兑换 |
+| 女神异闻录5 皇家版 | 44.8h | 购买 |
+| 死亡细胞（Dead Cells） | 44.0h | 兑换码 |
+| 幻兽帕鲁 | 43.0h | 兑换码 |
+| 无人深空 | 4.2h | 购买/兑换 |
 | 小骨：英雄杀手 | 1.1h | 购买/兑换 |
-| Sifu | 1.0h | 购买/兑换 |
-| Cuphead | 0.7h | 购买/兑换 |
-| Cassette Beasts | 0.6h | 购买/兑换 |
+| 师父（Sifu） | 1.0h | 购买/兑换 |
+| 茶杯头（Cuphead） | 0.7h | 购买/兑换 |
+| 磁带妖怪（Cassette Beasts） | 0.6h | 购买/兑换 |
 | 城镇叠叠乐 | 0.5h | 购买/兑换 |
-| Deep Rock Galactic | 0.4h | 购买/兑换 |
-| Totally Accurate Battle Simulator | 0.3h | 购买/兑换 |
-| 《Spiritfarer》Farewell版 | 0.3h | 购买/兑换 |
-| 戴森球计划 (游戏预览版) | 0.3h | 购买/兑换 |
-| Craftopia / 创世理想乡 (Game Preview) | 0.1h | 购买/兑换 |
-| 非常普通的鹿 鹿顶记之弱小的鹿总是受欺负 | 0.1h | 购买/兑换 |
-| Going Under | 0.0h | 购买/兑换 |
-| Katana ZERO | 0.0h | 购买/兑换 |
-| LIGHTNING RETURNS: FINAL FANTASY XIII | 0.0h | 购买/兑换 |
-| Mount & Blade II: Bannerlord | 0.0h | 购买/兑换 |
-| NieR:Automata BECOME AS GODS Edition | 0.0h | 购买/兑换 |
-| Nobody Saves the World | 0.0h | 购买/兑换 |
-| Orcs Must Die! 3 | 0.0h | 购买/兑换 |
-| Slay The Spire | 0.0h | 购买/兑换 |
-| Stellaris | 0.0h | 购买/兑换 |
-| Superliminal | 0.0h | 购买/兑换 |
+| 深岩银河（Deep Rock Galactic） | 0.4h | 购买/兑换 |
+| 全面战争模拟器（Totally Accurate Battle Simulator） | 0.3h | 购买/兑换 |
+| 灵魂摆渡者：告别版 | 0.3h | 购买/兑换 |
+| 戴森球计划 | 0.3h | 购买/兑换 |
+| 创世理想乡 | 0.1h | 购买/兑换 |
+| 非常普通的鹿 | 0.1h | 购买/兑换 |
+| 向下走（Going Under） | 0.0h | 购买/兑换 |
+| 武士零（Katana ZERO） | 0.0h | 购买/兑换 |
+| 最终幻想13：雷霆归来（LIGHTNING RETURNS: FINAL FANTASY XIII） | 0.0h | 购买/兑换 |
+| 骑马与砍杀2：霸主（Mount & Blade II: Bannerlord） | 0.0h | 购买/兑换 |
+| 尼尔：机械纪元（成为神版）（NieR:Automata BECOME AS GODS Edition） | 0.0h | 购买/兑换 |
+| 无人拯救世界（Nobody Saves the World） | 0.0h | 购买/兑换 |
+| 兽人必须死！3（Orcs Must Die! 3） | 0.0h | 购买/兑换 |
+| 杀戮尖塔（Slay The Spire） | 0.0h | 购买/兑换 |
+| 群星（Stellaris） | 0.0h | 购买/兑换 |
+| 超阈限空间（Superliminal） | 0.0h | 购买/兑换 |
 
 > 另有 Dead Cells（4 个 DLC）、Deep Rock Galactic（3 个 DLC）、Cuphead（The Delicious Last Course）、Orcs Must Die! 3（2 个 DLC）、Nobody Saves the World（Frozen Hearth）的 DLC/扩展已入库，未单列。
 > `orderId` 只能证明存在订单，无法区分“付款购买”和“兑换码”；除已知来源外统一标为“购买/兑换”。

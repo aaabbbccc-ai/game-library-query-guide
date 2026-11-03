@@ -13,7 +13,8 @@
       "acquisition": "purchased",
       "hours": 44.8,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "女神异闻录5 皇家版"
     },
     {
       "name": "Dead Cells",
@@ -28,7 +29,8 @@
         "The Bad Seed",
         "The Queen and the Sea",
         "Fatal Falls"
-      ]
+      ],
+      "name_zh": "死亡细胞"
     },
     {
       "name": "Palworld / 幻兽帕鲁",
@@ -38,7 +40,8 @@
       "acquisition": "redeemed_code",
       "hours": 43.0,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "幻兽帕鲁"
     },
     {
       "name": "No Man's Sky / 无人之地",
@@ -48,7 +51,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 4.2,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "无人深空"
     },
     {
       "name": "小骨：英雄杀手",
@@ -58,7 +62,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 1.1,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "小骨：英雄杀手"
     },
     {
       "name": "Sifu",
@@ -68,7 +73,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 1.0,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "师父"
     },
     {
       "name": "Cuphead",
@@ -80,7 +86,8 @@
       "played": true,
       "dlc": [
         "The Delicious Last Course"
-      ]
+      ],
+      "name_zh": "茶杯头"
     },
     {
       "name": "Cassette Beasts",
@@ -90,7 +97,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.6,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "磁带妖怪"
     },
     {
       "name": "城镇叠叠乐",
@@ -100,7 +108,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.5,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "城镇叠叠乐"
     },
     {
       "name": "Deep Rock Galactic",
@@ -114,7 +123,8 @@
         "MegaCorp Pack",
         "Supporter Upgrade",
         "Dark Future Pack"
-      ]
+      ],
+      "name_zh": "深岩银河"
     },
     {
       "name": "Totally Accurate Battle Simulator",
@@ -124,7 +134,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.3,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "全面战争模拟器"
     },
     {
       "name": "《Spiritfarer》Farewell版",
@@ -134,7 +145,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.3,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "灵魂摆渡者：告别版"
     },
     {
       "name": "戴森球计划 (游戏预览版)",
@@ -144,7 +156,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.3,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "戴森球计划"
     },
     {
       "name": "Craftopia / 创世理想乡 (Game Preview)",
@@ -154,7 +167,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.1,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "创世理想乡"
     },
     {
       "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
@@ -164,7 +178,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.1,
       "played": true,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "非常普通的鹿"
     },
     {
       "name": "Going Under",
@@ -174,7 +189,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "向下走"
     },
     {
       "name": "Katana ZERO",
@@ -184,7 +200,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "武士零"
     },
     {
       "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
@@ -194,7 +211,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "最终幻想13：雷霆归来"
     },
     {
       "name": "Mount & Blade II: Bannerlord",
@@ -204,7 +222,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "骑马与砍杀2：霸主"
     },
     {
       "name": "NieR:Automata BECOME AS GODS Edition",
@@ -214,7 +233,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "尼尔：机械纪元（成为神版）"
     },
     {
       "name": "Nobody Saves the World",
@@ -226,7 +246,8 @@
       "played": false,
       "dlc": [
         "Frozen Hearth"
-      ]
+      ],
+      "name_zh": "无人拯救世界"
     },
     {
       "name": "Orcs Must Die! 3",
@@ -239,7 +260,8 @@
       "dlc": [
         "Cold as Eyes",
         "Tipping the Scales"
-      ]
+      ],
+      "name_zh": "兽人必须死！3"
     },
     {
       "name": "Slay The Spire",
@@ -249,7 +271,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "杀戮尖塔"
     },
     {
       "name": "Stellaris",
@@ -259,7 +282,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "群星"
     },
     {
       "name": "Superliminal",
@@ -269,7 +293,8 @@
       "acquisition": "purchased_or_redeemed",
       "hours": 0.0,
       "played": false,
-      "dlc": []
+      "dlc": [],
+      "name_zh": "超阈限空间"
     }
   ]
 }
