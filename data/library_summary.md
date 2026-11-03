@@ -1,7 +1,7 @@
-# 全平台游戏库总表（2026-10-16）
+# 全平台游戏库总表（2026-11-03）
 
 - Steam 家庭组共 4 个号：主号「起飞就现在」93 款 + 「翻斗花园灰太狼」24 款 + 「tututu」21 款 + 「Homin」75 款（家庭共享来源账号，帕鲁/无主之地3/文明6/巫师3/杀戮尖塔等由它购买）
-- Xbox「哦耶 #8839 / Player96288839」43 款（经微软订单核实：付款购买 8 款 + 兑换码 6 款，其余为 XGP 订阅游玩；另有订单中买过但从未启动的 NieR:Automata、Stellaris、最终幻想13 LR、Superliminal、杀戮尖塔、Townscaper、Nobody Saves the World 等未计入）
+- Xbox「哦耶 #8839 / Player96288839」44 款（经微软订单核实：付款购买 8 款 + 兑换码 6 款，其余为 XGP 订阅游玩；另有订单中买过但从未启动的 NieR:Automata、Stellaris、最终幻想13 LR、Superliminal、杀戮尖塔、Townscaper、Nobody Saves the World 等未计入）
 - Epic「Super-Magician」144 款（含少量造型包DLC，120款喜加一）
 
 
@@ -242,53 +242,52 @@
 
 ## Xbox
 
-| 游戏 | 时长 | 来源 |
-|---|---|---|
 | 游戏 | 时长 | 成就 | 来源 |
 |---|---|---|---|
-| 女神异闻录５ 皇家版 | 44.8h | 14/52 |
-| Dead Cells | 44h | 26/115 |
-| Palworld / 幻兽帕鲁 | 43h | 10/75 |
-| Hollow Knight: Silksong | 34.5h | 12/52 |
-| 极限竞速：地平线 4 | 11.1h | 9/178 |
-| Atomic Heart | 4.7h | 3/82 |
-| 无人之地 | 4.2h | 1/27 |
-| Roboquest | 3h | 6/86 |
-| Grounded | 2.2h | 0/45 |
-| Kingdom Two Crowns | 1.9h | 0/46 |
-| Celeste | 1.4h | 2/30 |
-| 《极限竞速：地平线 6》 | 1.3h | 2/57 |
-| 小骨：英雄杀手(Skul: The Hero Slayer) | 1.1h | 2/23 |
-| Sifu | 1h | 4/61 |
-| 女神异闻录５ 战略版 | 0.9h | 0/39 |
-| Monster Hunter Rise | 0.8h | 0/100 |
-| Cuphead | 0.7h | 2/42 |
-| Cassette Beasts | 0.6h | 1/100 |
-| Monster Sanctuary (Windows Version) | 0.6h | 1/41 |
-| 城镇叠叠乐 | 0.5h | 2/10 |
-| Deep Rock Galactic | 0.4h | 0/67 |
-| Hi-Fi RUSH | 0.4h | 0/71 |
-| Totally Accurate Battle Simulator | 0.3h | 0/64 |
-| Neon Abyss | 0.3h | 0/36 |
-| 《Spiritfarer》Farewell版 | 0.3h | 0/39 |
-| 戴森球计划 (游戏预览版) | 0.3h | 0/128 |
-| Slime Rancher 2 | 0.3h | 0/27 |
-| Minecraft for Windows | 0.3h | 3/133 |
-| 精灵与萤火意志 | 0.2h | 0/37 |
-| Stardew Valley | 0.2h | 0/49 |
-| Beast of Reincarnation | 0.2h | 0/46 |
-| Minecraft | 0.2h | 2/133 |
-| 雨世界 | 0.2h | 0/47 |
-| Dead Cells | 0.2h | 0/115 |
-| Craftopia / 创世理想乡 (Game Preview) | 0.1h | 0/28 |
-| 非常普通的鹿 鹿顶记之弱小的鹿总是受欺负 | 0.1h | 1/17 |
-| 《战地风云™ 2042》Xbox Series X|S | 0.1h | 0/34 |
-| 刺客信条：奥德赛 | 0.1h | 0/93 |
-| ASTRONEER | 0.1h | 0/56 |
-| Brotato | 0h | 0/115 |
-| 《使命召唤®》 | 0h | 0/175 |
-| Minecraft Launcher | 0h | 0/0 |
-| Grand Theft Auto V (Xbox One) | 0h | 0/77 |
+| 女神异闻录５ 皇家版 | 44.8h | 14/52 | 购买 |
+| Dead Cells | 44.0h | 26/115 | 兑换码 |
+| Palworld / 幻兽帕鲁 | 43.0h | 10/75 | 兑换码 |
+| Hollow Knight: Silksong | 34.8h | 12/52 | XGP/未知 |
+| 极限竞速：地平线 4 | 11.1h | 9/178 | XGP/未知 |
+| Atomic Heart | 4.7h | 3/82 | XGP/未知 |
+| 无人之地 | 4.2h | 1/27 | XGP/未知 |
+| Roboquest | 3.0h | 6/86 | XGP/未知 |
+| Grounded | 2.2h | 0/45 | XGP/未知 |
+| Kingdom Two Crowns | 1.9h | 0/46 | XGP/未知 |
+| Celeste | 1.4h | 2/30 | XGP/未知 |
+| 《极限竞速：地平线 6》 | 1.3h | 2/57 | XGP/未知 |
+| 小骨：英雄杀手(Skul: The Hero Slayer) | 1.1h | 2/23 | 兑换码 |
+| Sifu | 1.0h | 4/61 | 兑换码 |
+| 女神异闻录５ 战略版 | 0.9h | 0/39 | XGP/未知 |
+| Monster Hunter Rise | 0.8h | 0/100 | XGP/未知 |
+| Cuphead | 0.7h | 2/42 | 兑换码 |
+| Cassette Beasts | 0.6h | 1/100 | 购买 |
+| Monster Sanctuary (Windows Version) | 0.6h | 1/41 | XGP/未知 |
+| 城镇叠叠乐 | 0.5h | 2/10 | 购买 |
+| Deep Rock Galactic | 0.4h | 0/67 | 购买 |
+| Hi-Fi RUSH | 0.4h | 0/71 | XGP/未知 |
+| Minecraft for Windows | 0.3h | 3/133 | XGP/未知 |
+| Neon Abyss | 0.3h | 0/36 | XGP/未知 |
+| Slime Rancher 2 | 0.3h | 0/27 | XGP/未知 |
+| Totally Accurate Battle Simulator | 0.3h | 0/64 | 购买 |
+| 《Spiritfarer》Farewell版 | 0.3h | 0/39 | 购买 |
+| 戴森球计划 (游戏预览版) | 0.3h | 0/128 | 购买 |
+| Beast of Reincarnation | 0.2h | 0/46 | XGP/未知 |
+| Dead Cells | 0.2h | 0/115 | 兑换码 |
+| Minecraft | 0.2h | 2/133 | XGP/未知 |
+| Stardew Valley | 0.2h | 0/49 | XGP/未知 |
+| 精灵与萤火意志 | 0.2h | 0/37 | XGP/未知 |
+| 雨世界 | 0.2h | 0/47 | XGP/未知 |
+| ASTRONEER | 0.1h | 0/56 | XGP/未知 |
+| Craftopia / 创世理想乡 (Game Preview) | 0.1h | 0/28 | 购买 |
+| Vampire Survivors | 0.1h | 0/283 | XGP/未知 |
+| 《战地风云™ 2042》Xbox Series X|S | 0.1h | 0/34 | XGP/未知 |
+| 刺客信条：奥德赛 | 0.1h | 0/93 | XGP/未知 |
+| 非常普通的鹿 鹿顶记之弱小的鹿总是受欺负 | 0.1h | 1/17 | 兑换码 |
+| Brotato | 0.0h | 0/115 | XGP/未知 |
+| Grand Theft Auto V (Xbox One) | 0.0h | 0/77 | XGP/未知 |
+| Minecraft Launcher | 0.0h | 0/0 | XGP/未知 |
+| 《使命召唤®》 | 0.0h | 0/175 | XGP/未知 |
 
 ## Epic
 

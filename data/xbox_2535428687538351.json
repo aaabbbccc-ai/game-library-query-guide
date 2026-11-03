@@ -1,7 +1,7 @@
 {
   "gamertag": "哦耶 #8839 (Player96288839)",
   "xuid": "2535428687538351",
-  "count": 43,
+  "count": 44,
   "games": [
     {
       "name": "女神异闻录５ 皇家版",
@@ -14,7 +14,7 @@
     {
       "name": "Dead Cells",
       "title_id": "1622132960",
-      "hours": 44,
+      "hours": 44.0,
       "gamerscore": "320/2430",
       "achievements": "26/115",
       "source": "redeemed_code"
@@ -22,7 +22,7 @@
     {
       "name": "Palworld / 幻兽帕鲁",
       "title_id": "1797327516",
-      "hours": 43,
+      "hours": 43.0,
       "gamerscore": "830/2820",
       "achievements": "10/75",
       "source": "redeemed_code"
@@ -30,7 +30,7 @@
     {
       "name": "Hollow Knight: Silksong",
       "title_id": "1668241504",
-      "hours": 34.5,
+      "hours": 34.8,
       "gamerscore": "110/1000",
       "achievements": "12/52",
       "source": "xgp_or_unknown"
@@ -62,7 +62,7 @@
     {
       "name": "Roboquest",
       "title_id": "1953745880",
-      "hours": 3,
+      "hours": 3.0,
       "gamerscore": "50/1170",
       "achievements": "6/86",
       "source": "xgp_or_unknown"
@@ -110,7 +110,7 @@
     {
       "name": "Sifu",
       "title_id": "1972063516",
-      "hours": 1,
+      "hours": 1.0,
       "gamerscore": "40/1720",
       "achievements": "4/61",
       "source": "redeemed_code"
@@ -180,12 +180,12 @@
       "source": "xgp_or_unknown"
     },
     {
-      "name": "Totally Accurate Battle Simulator",
-      "title_id": "1961305648",
+      "name": "Minecraft for Windows",
+      "title_id": "896928775",
       "hours": 0.3,
-      "gamerscore": "0/1000",
-      "achievements": "0/64",
-      "source": "purchased"
+      "gamerscore": "30/2980",
+      "achievements": "3/133",
+      "source": "xgp_or_unknown"
     },
     {
       "name": "Neon Abyss",
@@ -194,6 +194,22 @@
       "gamerscore": "0/1000",
       "achievements": "0/36",
       "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Slime Rancher 2",
+      "title_id": "1884079219",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/27",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Totally Accurate Battle Simulator",
+      "title_id": "1961305648",
+      "hours": 0.3,
+      "gamerscore": "0/1000",
+      "achievements": "0/64",
+      "source": "purchased"
     },
     {
       "name": "《Spiritfarer》Farewell版",
@@ -212,59 +228,11 @@
       "source": "purchased"
     },
     {
-      "name": "Slime Rancher 2",
-      "title_id": "1884079219",
-      "hours": 0.3,
-      "gamerscore": "0/1000",
-      "achievements": "0/27",
-      "source": "xgp_or_unknown"
-    },
-    {
-      "name": "Minecraft for Windows",
-      "title_id": "896928775",
-      "hours": 0.3,
-      "gamerscore": "30/2980",
-      "achievements": "3/133",
-      "source": "xgp_or_unknown"
-    },
-    {
-      "name": "精灵与萤火意志",
-      "title_id": "1659804324",
-      "hours": 0.2,
-      "gamerscore": "0/1000",
-      "achievements": "0/37",
-      "source": "xgp_or_unknown"
-    },
-    {
-      "name": "Stardew Valley",
-      "title_id": "306230746",
-      "hours": 0.2,
-      "gamerscore": "0/1500",
-      "achievements": "0/49",
-      "source": "xgp_or_unknown"
-    },
-    {
       "name": "Beast of Reincarnation",
       "title_id": "2059212977",
       "hours": 0.2,
       "gamerscore": "0/1000",
       "achievements": "0/46",
-      "source": "xgp_or_unknown"
-    },
-    {
-      "name": "Minecraft",
-      "title_id": "1828326430",
-      "hours": 0.2,
-      "gamerscore": "30/2980",
-      "achievements": "2/133",
-      "source": "xgp_or_unknown"
-    },
-    {
-      "name": "雨世界",
-      "title_id": "1789091683",
-      "hours": 0.2,
-      "gamerscore": "0/1695",
-      "achievements": "0/47",
       "source": "xgp_or_unknown"
     },
     {
@@ -276,6 +244,46 @@
       "source": "redeemed_code"
     },
     {
+      "name": "Minecraft",
+      "title_id": "1828326430",
+      "hours": 0.2,
+      "gamerscore": "30/2980",
+      "achievements": "2/133",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "Stardew Valley",
+      "title_id": "306230746",
+      "hours": 0.2,
+      "gamerscore": "0/1500",
+      "achievements": "0/49",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "精灵与萤火意志",
+      "title_id": "1659804324",
+      "hours": 0.2,
+      "gamerscore": "0/1000",
+      "achievements": "0/37",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "雨世界",
+      "title_id": "1789091683",
+      "hours": 0.2,
+      "gamerscore": "0/1695",
+      "achievements": "0/47",
+      "source": "xgp_or_unknown"
+    },
+    {
+      "name": "ASTRONEER",
+      "title_id": "568182861",
+      "hours": 0.1,
+      "gamerscore": "0/1075",
+      "achievements": "0/56",
+      "source": "xgp_or_unknown"
+    },
+    {
       "name": "Craftopia / 创世理想乡 (Game Preview)",
       "title_id": "1642353875",
       "hours": 0.1,
@@ -284,12 +292,12 @@
       "source": "purchased"
     },
     {
-      "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
-      "title_id": "1736409202",
+      "name": "Vampire Survivors",
+      "title_id": "1695638358",
       "hours": 0.1,
-      "gamerscore": "30/1000",
-      "achievements": "1/17",
-      "source": "redeemed_code"
+      "gamerscore": "0/1935",
+      "achievements": "0/283",
+      "source": "xgp_or_unknown"
     },
     {
       "name": "《战地风云™ 2042》Xbox Series X|S",
@@ -308,43 +316,43 @@
       "source": "xgp_or_unknown"
     },
     {
-      "name": "ASTRONEER",
-      "title_id": "568182861",
+      "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
+      "title_id": "1736409202",
       "hours": 0.1,
-      "gamerscore": "0/1075",
-      "achievements": "0/56",
-      "source": "xgp_or_unknown"
+      "gamerscore": "30/1000",
+      "achievements": "1/17",
+      "source": "redeemed_code"
     },
     {
       "name": "Brotato",
       "title_id": "2008767227",
-      "hours": 0,
+      "hours": 0.0,
       "gamerscore": "0/1480",
       "achievements": "0/115",
       "source": "xgp_or_unknown"
     },
     {
-      "name": "《使命召唤®》",
-      "title_id": "2001700854",
-      "hours": 0,
-      "gamerscore": "0/4000",
-      "achievements": "0/175",
+      "name": "Grand Theft Auto V (Xbox One)",
+      "title_id": "972249091",
+      "hours": 0.0,
+      "gamerscore": "0/1750",
+      "achievements": "0/77",
       "source": "xgp_or_unknown"
     },
     {
       "name": "Minecraft Launcher",
       "title_id": "1794566092",
-      "hours": 0,
+      "hours": 0.0,
       "gamerscore": "0/0",
       "achievements": "0/0",
       "source": "xgp_or_unknown"
     },
     {
-      "name": "Grand Theft Auto V (Xbox One)",
-      "title_id": "972249091",
-      "hours": 0,
-      "gamerscore": "0/1750",
-      "achievements": "0/77",
+      "name": "《使命召唤®》",
+      "title_id": "2001700854",
+      "hours": 0.0,
+      "gamerscore": "0/4000",
+      "achievements": "0/175",
       "source": "xgp_or_unknown"
     }
   ]
