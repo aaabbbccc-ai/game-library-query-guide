@@ -1,0 +1,275 @@
+{
+  "gamertag": "哦耶 #8839 (Player96288839)",
+  "xuid": "2535428687538351",
+  "source": "Microsoft Store collections v7.0 collections/query (xbox.com client), 2026-11-03",
+  "count": 25,
+  "note": "仅统计 productKind=Game 且 status=Active 的独立游戏；已合并同游戏的豪华版/捆绑包；不含 DLC、应用、Game Pass 订阅项。acquiredDate 为微软侧记录。",
+  "games": [
+    {
+      "name": "女神异闻录５ 皇家版",
+      "name_en": "Persona 5 Royal",
+      "product_id": "9NZDHXL9SJJ8",
+      "acquired": "2023-11-22",
+      "acquisition": "purchased",
+      "hours": 44.8,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Dead Cells",
+      "name_en": "Dead Cells",
+      "product_id": "9NKVX66J0ZSK",
+      "acquired": "2024-01-13",
+      "acquisition": "redeemed_code",
+      "hours": 44.0,
+      "played": true,
+      "dlc": [
+        "Return to Castlevania",
+        "The Bad Seed",
+        "The Queen and the Sea",
+        "Fatal Falls"
+      ]
+    },
+    {
+      "name": "Palworld / 幻兽帕鲁",
+      "name_en": "Palworld",
+      "product_id": "9NKV34XDW014",
+      "acquired": "2024-01-19",
+      "acquisition": "redeemed_code",
+      "hours": 43.0,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "No Man's Sky / 无人之地",
+      "name_en": "No Man's Sky",
+      "product_id": "BQVQTL3PCH05",
+      "acquired": "2026-10-27",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 4.2,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "小骨：英雄杀手",
+      "name_en": "Skul: The Hero Slayer",
+      "product_id": "9NW4Z3HPJVKW",
+      "acquired": "2024-01-17",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 1.1,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Sifu",
+      "name_en": "Sifu",
+      "product_id": "9P7PF6ZP3958",
+      "acquired": "2024-01-30",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 1.0,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Cuphead",
+      "name_en": "Cuphead",
+      "product_id": "9NJRX71M5X9P",
+      "acquired": "2024-01-17",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.7,
+      "played": true,
+      "dlc": [
+        "The Delicious Last Course"
+      ]
+    },
+    {
+      "name": "Cassette Beasts",
+      "name_en": "Cassette Beasts",
+      "product_id": "9N82SNQTZVMQ",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.6,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "城镇叠叠乐",
+      "name_en": "Townscaper",
+      "product_id": "9NFM39PSFXJD",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.5,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Deep Rock Galactic",
+      "name_en": "Deep Rock Galactic",
+      "product_id": "9NHFVWX1V7QJ",
+      "acquired": "2024-03-18",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.4,
+      "played": true,
+      "dlc": [
+        "MegaCorp Pack",
+        "Supporter Upgrade",
+        "Dark Future Pack"
+      ]
+    },
+    {
+      "name": "Totally Accurate Battle Simulator",
+      "name_en": "Totally Accurate Battle Simulator",
+      "product_id": "9PC4RWP34M2D",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.3,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "《Spiritfarer》Farewell版",
+      "name_en": "Spiritfarer: Farewell Edition",
+      "product_id": "9NG5L58FD3X5",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.3,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "戴森球计划 (游戏预览版)",
+      "name_en": "Dyson Sphere Program (Game Preview)",
+      "product_id": "9MTX4JNKL3FS",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.3,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Craftopia / 创世理想乡 (Game Preview)",
+      "name_en": "Craftopia (Game Preview)",
+      "product_id": "9NTM9G539XTT",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.1,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "非常普通的鹿 鹿顶记之弱小的鹿总是受欺负",
+      "name_en": "DEEEER Simulator",
+      "product_id": "9NNBPBM2F60W",
+      "acquired": "2024-01-17",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.1,
+      "played": true,
+      "dlc": []
+    },
+    {
+      "name": "Going Under",
+      "name_en": "Going Under",
+      "product_id": "9NX3G3Z38CV2",
+      "acquired": "2026-10-29",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "Katana ZERO",
+      "name_en": "Katana ZERO",
+      "product_id": "9P6CVNVMK56R",
+      "acquired": "2026-10-27",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+      "name_en": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+      "product_id": "9PLF9MR720SJ",
+      "acquired": "2024-03-18",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "name_en": "Mount & Blade II: Bannerlord",
+      "product_id": "9PDHWZ7X3P03",
+      "acquired": "2026-10-26",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "NieR:Automata BECOME AS GODS Edition",
+      "name_en": "NieR:Automata BECOME AS GODS Edition",
+      "product_id": "9PM2P9HQD1ML",
+      "acquired": "2024-03-18",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "Nobody Saves the World",
+      "name_en": "Nobody Saves the World",
+      "product_id": "9NFZ65KKJ10X",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": [
+        "Frozen Hearth"
+      ]
+    },
+    {
+      "name": "Orcs Must Die! 3",
+      "name_en": "Orcs Must Die! 3",
+      "product_id": "9NCWF7RRR52G",
+      "acquired": "2026-10-31",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": [
+        "Cold as Eyes",
+        "Tipping the Scales"
+      ]
+    },
+    {
+      "name": "Slay The Spire",
+      "name_en": "Slay The Spire",
+      "product_id": "9MZQR8317S3B",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "Stellaris",
+      "name_en": "Stellaris",
+      "product_id": "9NXQPGMR917R",
+      "acquired": "2024-03-18",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    },
+    {
+      "name": "Superliminal",
+      "name_en": "Superliminal",
+      "product_id": "9NVR4ZQKNBSB",
+      "acquired": "2024-01-21",
+      "acquisition": "purchased_or_redeemed",
+      "hours": 0.0,
+      "played": false,
+      "dlc": []
+    }
+  ]
+}

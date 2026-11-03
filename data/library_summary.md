@@ -1,7 +1,7 @@
 # 全平台游戏库总表（2026-11-03）
 
 - Steam 家庭组共 4 个号：主号「起飞就现在」93 款 + 「翻斗花园灰太狼」24 款 + 「tututu」21 款 + 「Homin」75 款（家庭共享来源账号，帕鲁/无主之地3/文明6/巫师3/杀戮尖塔等由它购买）
-- Xbox「哦耶 #8839 / Player96288839」44 款（经微软订单核实：付款购买 8 款 + 兑换码 6 款，其余为 XGP 订阅游玩；另有订单中买过但从未启动的 NieR:Automata、Stellaris、最终幻想13 LR、Superliminal、杀戮尖塔、Townscaper、Nobody Saves the World 等未计入）
+- Xbox「哦耶 #8839 / Player96288839」拥有库 25 款（2026-11-03 经 Microsoft Store collections 核实，含 10 款从未启动）；游玩历史 44 款（小黑盒，含 XGP 订阅期间玩过的游戏）
 - Epic「Super-Magician」144 款（含少量造型包DLC，120款喜加一）
 
 
@@ -241,6 +241,41 @@
 | Grand Theft Auto V Enhanced | 0h |
 
 ## Xbox
+
+### 拥有库（25 款，2026-11-03）
+
+| 游戏 | 时长 | 获得 |
+|---|---|---|
+| 女神异闻录５ 皇家版 | 44.8h | 购买 |
+| Dead Cells | 44.0h | 兑换码 |
+| Palworld / 幻兽帕鲁 | 43.0h | 兑换码 |
+| No Man's Sky / 无人之地 | 4.2h | 购买/兑换 |
+| 小骨：英雄杀手 | 1.1h | 购买/兑换 |
+| Sifu | 1.0h | 购买/兑换 |
+| Cuphead | 0.7h | 购买/兑换 |
+| Cassette Beasts | 0.6h | 购买/兑换 |
+| 城镇叠叠乐 | 0.5h | 购买/兑换 |
+| Deep Rock Galactic | 0.4h | 购买/兑换 |
+| Totally Accurate Battle Simulator | 0.3h | 购买/兑换 |
+| 《Spiritfarer》Farewell版 | 0.3h | 购买/兑换 |
+| 戴森球计划 (游戏预览版) | 0.3h | 购买/兑换 |
+| Craftopia / 创世理想乡 (Game Preview) | 0.1h | 购买/兑换 |
+| 非常普通的鹿 鹿顶记之弱小的鹿总是受欺负 | 0.1h | 购买/兑换 |
+| Going Under | 0.0h | 购买/兑换 |
+| Katana ZERO | 0.0h | 购买/兑换 |
+| LIGHTNING RETURNS: FINAL FANTASY XIII | 0.0h | 购买/兑换 |
+| Mount & Blade II: Bannerlord | 0.0h | 购买/兑换 |
+| NieR:Automata BECOME AS GODS Edition | 0.0h | 购买/兑换 |
+| Nobody Saves the World | 0.0h | 购买/兑换 |
+| Orcs Must Die! 3 | 0.0h | 购买/兑换 |
+| Slay The Spire | 0.0h | 购买/兑换 |
+| Stellaris | 0.0h | 购买/兑换 |
+| Superliminal | 0.0h | 购买/兑换 |
+
+> 另有 Dead Cells（4 个 DLC）、Deep Rock Galactic（3 个 DLC）、Cuphead（The Delicious Last Course）、Orcs Must Die! 3（2 个 DLC）、Nobody Saves the World（Frozen Hearth）的 DLC/扩展已入库，未单列。
+> `orderId` 只能证明存在订单，无法区分“付款购买”和“兑换码”；除已知来源外统一标为“购买/兑换”。
+
+### 游玩历史（44 款，含 XGP）
 
 | 游戏 | 时长 | 成就 | 来源 |
 |---|---|---|---|
