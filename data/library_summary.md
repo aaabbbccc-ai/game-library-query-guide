@@ -164,81 +164,81 @@
 
 | 游戏 | 时长 |
 |---|---|
-| Grand Theft Auto V Legacy | 2.4h |
-| 雀魂麻将(MahjongSoul) | 1.5h |
-| Chinese Parents | 1.3h |
-| Plants vs. Zombies: Game of the Year | 1h |
-| Don't Starve Together | 0.7h |
-| Sid Meier's Civilization VI | 0.6h |
-| Borderlands 3 | 0.5h |
-| Yakuza: Like a Dragon | 0.5h |
-| Planet Zoo | 0.3h |
-| Lies of P | 0.3h |
-| Road to Empress Ⅱ | 0.3h |
-| Borderlands 2 | 0.3h |
-| Dying Light | 0.3h |
-| Divinity: Original Sin 2 | 0.3h |
-| PUBG: BATTLEGROUNDS | 0.2h |
-| Dead Island 2 | 0.2h |
-| Planet Coaster | 0.2h |
-| It Takes Two | 0.1h |
-| Left 4 Dead 2 | 0.1h |
-| The Witcher 3: Wild Hunt — Remastered | 0.1h |
-| Bongo Cat | 0.1h |
-| Palworld | 0.1h |
-| Human Fall Flat | 0.1h |
-| Kingdom Come: Deliverance II | 0.1h |
-| ARK: Survival Evolved | 0.1h |
-| Clair Obscur: Expedition 33 | 0.1h |
-| Far Cry 5 | 0.1h |
-| FragPunk | 0.1h |
-| Counter-Strike 2 | 0.1h |
-| Slay the Spire | 0.1h |
-| Just Cause 3 | 0.1h |
-| Kingdom Rush Vengeance | 0.1h |
-| Borderlands® 4 | 0.1h |
-| Neon Abyss | 0h |
-| Hades | 0h |
-| The Forest | 0h |
-| The Karaoke | ヒトカラ | 0h |
-| Call of Duty®: Modern Warfare® | 0h |
-| Resident Evil 4 | 0h |
-| Robocraft | 0h |
-| Marvel Rivals | 0h |
-| Cities: Skylines | 0h |
-| Wallpaper Engine | 0h |
-| Happy Wars | 0h |
-| Fall Guys | 0h |
-| Ori and the Will of the Wisps | 0h |
-| Frostpunk | 0h |
-| My Time at Portia | 0h |
-| Teeworlds | 0h |
-| Titanfall® 2 | 0h |
-| Hero's Land | 0h |
-| BioShock | 0h |
-| Metro 2033 Redux | 0h |
-| This War of Mine | 0h |
-| ARK: Survival Of The Fittest | 0h |
-| Creativerse | 0h |
-| BioShock 2 | 0h |
-| BioShock Infinite | 0h |
-| POSTAL 2 | 0h |
-| Iron Sky Invasion | 0h |
-| Metro: Last Light Redux | 0h |
-| Ampu-Tea | 0h |
-| RADical ROACH Remastered | 0h |
-| Alum | 0h |
-| Tom Clancy's Rainbow Six Siege | 0h |
-| Ohr | 0h |
-| BioShock Remastered | 0h |
-| BioShock 2 Remastered | 0h |
-| Undead vs Plants | 0h |
-| Beholder | 0h |
-| Abrix for kids | 0h |
-| SteamWorld Dig 2 | 0h |
-| Unknown Pharaoh | 0h |
-| Tom Clancy's Rainbow Six Siege - Test Server | 0h |
-| Grand Theft Auto V Enhanced | 0h |
+| Grand Theft Auto V Legacy | 144.0h |
+| 雀魂麻将(MahjongSoul) | 90.0h |
+| Chinese Parents | 78.0h |
+| Plants vs. Zombies: Game of the Year | 60.0h |
+| Don't Starve Together | 42.0h |
+| Sid Meier's Civilization VI | 36.0h |
+| Borderlands 3 | 30.0h |
+| Yakuza: Like a Dragon | 30.0h |
+| Planet Zoo | 18.0h |
+| Lies of P | 18.0h |
+| Road to Empress Ⅱ | 18.0h |
+| Borderlands 2 | 18.0h |
+| Dying Light | 18.0h |
+| Divinity: Original Sin 2 | 18.0h |
+| PUBG: BATTLEGROUNDS | 12.0h |
+| Dead Island 2 | 12.0h |
+| Planet Coaster | 12.0h |
+| It Takes Two | 6.0h |
+| Left 4 Dead 2 | 6.0h |
+| The Witcher 3: Wild Hunt — Remastered | 6.0h |
+| Bongo Cat | 6.0h |
+| Palworld | 6.0h |
+| Human Fall Flat | 6.0h |
+| Kingdom Come: Deliverance II | 6.0h |
+| ARK: Survival Evolved | 6.0h |
+| Clair Obscur: Expedition 33 | 6.0h |
+| Far Cry 5 | 6.0h |
+| FragPunk | 6.0h |
+| Counter-Strike 2 | 6.0h |
+| Slay the Spire | 6.0h |
+| Just Cause 3 | 6.0h |
+| Kingdom Rush Vengeance | 6.0h |
+| Borderlands® 4 | 6.0h |
+| Neon Abyss | 0.0h |
+| Hades | 0.0h |
+| The Forest | 0.0h |
+| The Karaoke | ヒトカラ | 0.0h |
+| Call of Duty®: Modern Warfare® | 0.0h |
+| Resident Evil 4 | 0.0h |
+| Robocraft | 0.0h |
+| Marvel Rivals | 0.0h |
+| Cities: Skylines | 0.0h |
+| Wallpaper Engine | 0.0h |
+| Happy Wars | 0.0h |
+| Fall Guys | 0.0h |
+| Ori and the Will of the Wisps | 0.0h |
+| Frostpunk | 0.0h |
+| My Time at Portia | 0.0h |
+| Teeworlds | 0.0h |
+| Titanfall® 2 | 0.0h |
+| Hero's Land | 0.0h |
+| BioShock | 0.0h |
+| Metro 2033 Redux | 0.0h |
+| This War of Mine | 0.0h |
+| ARK: Survival Of The Fittest | 0.0h |
+| Creativerse | 0.0h |
+| BioShock 2 | 0.0h |
+| BioShock Infinite | 0.0h |
+| POSTAL 2 | 0.0h |
+| Iron Sky Invasion | 0.0h |
+| Metro: Last Light Redux | 0.0h |
+| Ampu-Tea | 0.0h |
+| RADical ROACH Remastered | 0.0h |
+| Alum | 0.0h |
+| Tom Clancy's Rainbow Six Siege | 0.0h |
+| Ohr | 0.0h |
+| BioShock Remastered | 0.0h |
+| BioShock 2 Remastered | 0.0h |
+| Undead vs Plants | 0.0h |
+| Beholder | 0.0h |
+| Abrix for kids | 0.0h |
+| SteamWorld Dig 2 | 0.0h |
+| Unknown Pharaoh | 0.0h |
+| Tom Clancy's Rainbow Six Siege - Test Server | 0.0h |
+| Grand Theft Auto V Enhanced | 0.0h |
 
 ## Xbox
 
