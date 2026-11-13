@@ -1,231 +1,232 @@
 {
   "account": "Homin",
   "steam_id": "76561198174491401",
+  "owner": "family_member",
   "count": 75,
   "games": [
     {
       "name": "Grand Theft Auto V Legacy",
-      "h": 144
+      "h": 141.7
     },
     {
       "name": "雀魂麻将(MahjongSoul)",
-      "h": 90
+      "h": 92.4
     },
     {
       "name": "Chinese Parents",
-      "h": 78
+      "h": 76.6
     },
     {
       "name": "Plants vs. Zombies: Game of the Year",
-      "h": 60
+      "h": 58.2
     },
     {
       "name": "Don't Starve Together",
-      "h": 42
+      "h": 40.7
     },
     {
       "name": "Sid Meier's Civilization VI",
-      "h": 36
+      "h": 35.6
     },
     {
       "name": "Borderlands 3",
-      "h": 30
+      "h": 31.9
     },
     {
       "name": "Yakuza: Like a Dragon",
-      "h": 30
+      "h": 28
     },
     {
       "name": "Planet Zoo",
-      "h": 18
+      "h": 19.5
     },
     {
       "name": "Lies of P",
-      "h": 18
+      "h": 19.5
     },
     {
       "name": "Road to Empress Ⅱ",
-      "h": 18
+      "h": 19.4
     },
     {
       "name": "Borderlands 2",
-      "h": 18
+      "h": 17.6
     },
     {
       "name": "Dying Light",
-      "h": 18
+      "h": 15.9
     },
     {
       "name": "Divinity: Original Sin 2",
-      "h": 18
+      "h": 15.8
     },
     {
       "name": "PUBG: BATTLEGROUNDS",
-      "h": 12
+      "h": 14.1
     },
     {
       "name": "Dead Island 2",
-      "h": 12
+      "h": 12.3
     },
     {
       "name": "Planet Coaster",
-      "h": 12
+      "h": 11.3
     },
     {
       "name": "It Takes Two",
-      "h": 6
+      "h": 8.7
     },
     {
       "name": "Left 4 Dead 2",
-      "h": 6
+      "h": 7.5
     },
     {
       "name": "The Witcher 3: Wild Hunt — Remastered",
-      "h": 6
+      "h": 7
     },
     {
       "name": "Bongo Cat",
-      "h": 6
+      "h": 7
     },
     {
       "name": "Palworld",
-      "h": 6
+      "h": 6.2
     },
     {
       "name": "Human Fall Flat",
-      "h": 6
+      "h": 5.5
     },
     {
       "name": "Kingdom Come: Deliverance II",
-      "h": 6
+      "h": 5.3
     },
     {
       "name": "ARK: Survival Evolved",
-      "h": 6
+      "h": 5
     },
     {
       "name": "Clair Obscur: Expedition 33",
-      "h": 6
+      "h": 4.9
     },
     {
       "name": "Far Cry 5",
-      "h": 6
+      "h": 4.7
     },
     {
       "name": "FragPunk",
-      "h": 6
+      "h": 4.5
     },
     {
       "name": "Counter-Strike 2",
-      "h": 6
+      "h": 4.2
     },
     {
       "name": "Slay the Spire",
-      "h": 6
+      "h": 3.9
     },
     {
       "name": "Just Cause 3",
-      "h": 6
-    },
-    {
-      "name": "Kingdom Rush Vengeance",
-      "h": 6
+      "h": 3.5
     },
     {
       "name": "Borderlands® 4",
-      "h": 6
+      "h": 3.3
+    },
+    {
+      "name": "Kingdom Rush Vengeance",
+      "h": 3.3
     },
     {
       "name": "Neon Abyss",
-      "h": 0
-    },
-    {
-      "name": "Hades",
-      "h": 0
+      "h": 2.8
     },
     {
       "name": "The Forest",
-      "h": 0
+      "h": 2.7
+    },
+    {
+      "name": "Hades",
+      "h": 2.7
     },
     {
       "name": "The Karaoke | ヒトカラ",
-      "h": 0
+      "h": 2.5
     },
     {
       "name": "Call of Duty®: Modern Warfare®",
-      "h": 0
+      "h": 2.3
     },
     {
       "name": "Resident Evil 4",
-      "h": 0
+      "h": 2.2
     },
     {
       "name": "Robocraft",
-      "h": 0
+      "h": 2.1
     },
     {
       "name": "Marvel Rivals",
-      "h": 0
+      "h": 2
     },
     {
       "name": "Cities: Skylines",
-      "h": 0
+      "h": 1.9
     },
     {
       "name": "Wallpaper Engine",
-      "h": 0
+      "h": 1.9
     },
     {
       "name": "Happy Wars",
-      "h": 0
+      "h": 1.8
     },
     {
       "name": "Fall Guys",
-      "h": 0
-    },
-    {
-      "name": "Ori and the Will of the Wisps",
-      "h": 0
+      "h": 1.6
     },
     {
       "name": "Frostpunk",
-      "h": 0
+      "h": 1.4
+    },
+    {
+      "name": "Ori and the Will of the Wisps",
+      "h": 1.4
     },
     {
       "name": "My Time at Portia",
-      "h": 0
+      "h": 1.3
     },
     {
       "name": "Teeworlds",
-      "h": 0
+      "h": 0.9
     },
     {
       "name": "Titanfall® 2",
-      "h": 0
+      "h": 0.9
     },
     {
       "name": "Hero's Land",
-      "h": 0
+      "h": 0.8
     },
     {
       "name": "BioShock",
-      "h": 0
+      "h": 0.7
     },
     {
       "name": "Metro 2033 Redux",
-      "h": 0
+      "h": 0.7
     },
     {
       "name": "This War of Mine",
-      "h": 0
-    },
-    {
-      "name": "ARK: Survival Of The Fittest",
-      "h": 0
+      "h": 0.4
     },
     {
       "name": "Creativerse",
-      "h": 0
+      "h": 0.2
+    },
+    {
+      "name": "ARK: Survival Of The Fittest",
+      "h": 0.2
     },
     {
       "name": "BioShock 2",
@@ -303,6 +304,5 @@
       "name": "Grand Theft Auto V Enhanced",
       "h": 0
     }
-  ],
-  "owner": "family_member"
+  ]
 }
